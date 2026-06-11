@@ -1,8 +1,7 @@
 {
   "course": "Nederlands",
   "title": "Toets 1",
-  "gradeAtEnd": true,
-  "password": "jideru135",
+  "gradeAtEnd": false,
   "questions": [
     {
       "Id": 1,
