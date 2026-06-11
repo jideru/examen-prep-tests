@@ -1,6 +1,7 @@
 {
   "course": "Nederlands",
   "title": "Tussendoortje 2",
+  "emailTutor": "jderuysscher@gmail.com",
   "gradeAtEnd": false,
   "questions": [
     {
@@ -11,7 +12,8 @@
         { "Id": 2, "option": "Een figuur dat de actie ondergaat en verkeerde keuzes maakt" },
         { "Id": 3, "option": "Een achtergrondfiguur die kleur geeft aan het verhaal" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een held is dapper en slim en onderneemt zelf actie. Een figuur dat de actie ondergaat en verkeerde keuzes maakt, is een antiheld."
     },
     {
       "Id": 2,
@@ -21,7 +23,8 @@
         { "Id": 2, "option": "Woorden die met dezelfde klank beginnen" },
         { "Id": 3, "option": "Iets overdreven groot voorstellen" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Bij alliteratie beginnen twee of meer woorden met dezelfde klank, bv. 'baldadige bejaarde'."
     },
     {
       "Id": 3,
@@ -31,7 +34,8 @@
         { "Id": 2, "option": "Een ondergeschikt woord, een soort van" },
         { "Id": 3, "option": "Een woord met een tegengestelde betekenis" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een hyponiem is een ondergeschikt woord, 'een soort van' (bv. roos is een hyponiem van bloem). Een overkoepelend woord is een hyperoniem."
     },
     {
       "Id": 4,
@@ -41,7 +45,8 @@
         { "Id": 2, "option": "Aan de stam + t" },
         { "Id": 3, "option": "Aan het voltooid deelwoord" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "De gebiedende wijs (bevelvorm) is gelijk aan de stam van het werkwoord, bv. 'Eet je bord leeg!'."
     },
     {
       "Id": 5,
@@ -51,7 +56,8 @@
         { "Id": 2, "option": "Een zin met twee of meer persoonsvormen" },
         { "Id": 3, "option": "Een zin zonder werkwoord" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een enkelvoudige zin heeft één persoonsvorm. Bij twee of meer persoonsvormen is het een samengestelde zin."
     },
     {
       "Id": 6,
@@ -61,7 +67,8 @@
         { "Id": 2, "option": "Een product of dienst verkopen om winst te maken" },
         { "Id": 3, "option": "Informatie geven zonder enig doel" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Commerciële reclame wil een product of dienst verkopen om winst te maken. Reclame voor een goed doel die je gedrag wil veranderen, is ideële reclame."
     },
     {
       "Id": 7,
@@ -71,7 +78,8 @@
         { "Id": 2, "option": "De lucht kleurde zo rood als wijn." },
         { "Id": 3, "option": "Hij werd belaagd door een baldadige bejaarde." }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een tegenstelling maakt een contrast duidelijk: klein tegenover groot. 'Zo rood als wijn' is een vergelijking en 'baldadige bejaarde' een alliteratie."
     },
     {
       "Id": 8,
@@ -81,7 +89,8 @@
         { "Id": 2, "option": "We vieren Pasen volgende week." },
         { "Id": 3, "option": "Hij is een echte Christen." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Feestdagen krijgen een hoofdletter: Pasen. Een taal schrijf je ook met een hoofdletter ('Frans', niet 'frans'), maar een religieuze beoefenaar niet ('christen')."
     },
     {
       "Id": 9,
@@ -91,7 +100,8 @@
         { "Id": 2, "option": "Vertraging (retardering)" },
         { "Id": 3, "option": "Tijddekking (isochronie)" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een korte gebeurtenis die heel uitgebreid over veel bladzijden beschreven wordt, gaat traag: dat is vertraging (retardering). Veel tijd in weinig bladzijden is versnelling."
     },
     {
       "Id": 10,
@@ -102,7 +112,8 @@
         { "keyword": "de jonge hond" },
         { "keyword": "wie of wat" },
         { "keyword": "persoonsvorm" }
-      ]
+      ],
+      "rule": "De **persoonsvorm** is **blaft** (die verandert als je de zin vragend of in een andere tijd zet) en het onderwerp is **de jonge hond**: je vindt het onderwerp door te vragen '**wie of wat** blaft?'."
     }
   ]
 }

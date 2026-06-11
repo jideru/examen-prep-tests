@@ -1,6 +1,7 @@
 {
   "course": "Nederlands",
-  "title": "Toets 22u",
+  "title": "Toets 19u",
+  "emailTutor": "jderuysscher@gmail.com",
   "gradeAtEnd": true,
   "questions": [
     {
@@ -11,7 +12,8 @@
         { "Id": 2, "option": "ABAB" },
         { "Id": 3, "option": "ABBA" }
       ],
-      "answer": 3
+      "answer": 3,
+      "rule": "Omarmend rijm heeft het schema ABBA: de buitenste regels (A) omarmen de binnenste (B). AABB is gepaard rijm en ABAB is gekruist rijm."
     },
     {
       "Id": 2,
@@ -21,7 +23,8 @@
         { "Id": 2, "option": "De tegenspeler die de protagonist tegenwerkt" },
         { "Id": 3, "option": "Een achtergrondfiguur die kleur geeft aan het verhaal" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "De antagonist is de tegenspeler die de protagonist tegenwerkt. Het hoofdpersonage zelf is de protagonist."
     },
     {
       "Id": 3,
@@ -31,7 +34,8 @@
         { "Id": 2, "option": "b, d, g, v, z, j" },
         { "Id": 3, "option": "k, l, m, n, r, s" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "De regel 't ex-kofschip bevat de letters t, k, f, s, ch en p. Eindigt de stam op zo'n letter, dan schrijf je in de verleden tijd -te(n) en in het voltooid deelwoord een -t."
     },
     {
       "Id": 4,
@@ -42,7 +46,8 @@
         { "keyword": "voorbijgaat in het verhaal" },
         { "keyword": "verteltijd" },
         { "keyword": "lezen" }
-      ]
+      ],
+      "rule": "De **vertelde tijd** is de tijd die **voorbijgaat in het verhaal** zelf (bv. tachtig jaar), terwijl de **verteltijd** de tijd is die je nodig hebt om het verhaal te **lezen** (bv. een paar uur of een aantal bladzijden)."
     },
     {
       "Id": 5,
@@ -52,7 +57,8 @@
         { "Id": 2, "option": "De vakantie lacht ons al toe." },
         { "Id": 3, "option": "De lucht kleurde zo rood als wijn." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Bij een personificatie krijgt iets levenloos menselijke eigenschappen: een vakantie kan niet echt lachen. 'Een eeuw wachten' is een hyperbool en 'zo rood als wijn' een vergelijking."
     },
     {
       "Id": 6,
@@ -62,7 +68,8 @@
         { "Id": 2, "option": "Mathias's rol" },
         { "Id": 3, "option": "Mathias' rol" }
       ],
-      "answer": 3
+      "answer": 3,
+      "rule": "Bij een naam die op een sisklank eindigt (s, c, z, x, sch) schrijf je de bezitsvorm met een apostrof zonder s: Mathias' rol."
     },
     {
       "Id": 7,
@@ -75,7 +82,8 @@
         { "keyword": "omdat" },
         { "keyword": "opsomming" },
         { "keyword": "en" }
-      ]
+      ],
+      "rule": "Voorbeelden van verbanden zijn een **tegenstelling** (signaalwoord **maar**, toch), een **oorzaak**-gevolg (signaalwoord **omdat**, dus) en een **opsomming** (signaalwoord **en**, ook)."
     },
     {
       "Id": 8,
@@ -85,7 +93,8 @@
         { "Id": 2, "option": "Onderschikking" },
         { "Id": 3, "option": "Een enkelvoudige zin" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "'Omdat' is een onderschikkend voegwoord dat een bijzin inleidt, dus dit is onderschikking: een hoofdzin met een ondergeschikte bijzin. Bij nevenschikking (en, maar, of, want, dus) zijn de deelzinnen gelijkwaardig."
     },
     {
       "Id": 9,
@@ -95,7 +104,8 @@
         { "Id": 2, "option": "Sociale ruimte" },
         { "Id": 3, "option": "Symbolische ruimte" }
       ],
-      "answer": 3
+      "answer": 3,
+      "rule": "Wanneer de ruimte symbool staat voor de gevoelens van het personage (de storm = zijn schuldgevoelens), spreek je van een symbolische ruimte."
     },
     {
       "Id": 10,
@@ -106,7 +116,8 @@
         { "keyword": "ik" },
         { "keyword": "verleden tijd" },
         { "keyword": "kent de afloop" }
-      ]
+      ],
+      "rule": "Dit is de **vertellende ik**: de verteller gebruikt **ik**, vertelt in de **verleden tijd** (OVT) en **kent de afloop** al omdat hij terugkijkt op wat al gebeurd is."
     }
   ]
 }

@@ -11,7 +11,8 @@
         { "Id": 2, "option": "Een belangrijke helper van de protagonist of antagonist" },
         { "Id": 3, "option": "Een fout tegen de kalendertijd" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een nevenfiguur is een belangrijke helper van de protagonist of antagonist, waar je minder over te weten komt. Een fout tegen de kalendertijd is een anachronisme."
     },
     {
       "Id": 2,
@@ -21,7 +22,8 @@
         { "Id": 2, "option": "Eén regel in een gedicht" },
         { "Id": 3, "option": "De afwisseling van beklemtoonde en onbeklemtoonde lettergrepen" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een refrein bestaat uit versregels die telkens terugkomen. De afwisseling van beklemtoonde en onbeklemtoonde lettergrepen is het ritme."
     },
     {
       "Id": 3,
@@ -31,7 +33,8 @@
         { "Id": 2, "option": "Verzen die samen horen" },
         { "Id": 3, "option": "Een gedicht dat niet rijmt" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een enjambement is een zin die doorloopt over meerdere versregels en dus niet stopt aan het einde van de regel."
     },
     {
       "Id": 4,
@@ -41,7 +44,8 @@
         { "Id": 2, "option": "cafeetje" },
         { "Id": 3, "option": "café'tje" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Bij een woord op een -é verdubbel je de e in het verkleinwoord: café wordt cafeetje."
     },
     {
       "Id": 5,
@@ -51,7 +55,8 @@
         { "Id": 2, "option": "Een personage dat op een echt mens lijkt en een evolutie doormaakt" },
         { "Id": 3, "option": "Een achtergrondfiguur zonder belang" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een vol (rond) karakter lijkt op een echt mens en maakt een evolutie door. Een personage met één vaste eigenschap dat niet verandert, is een vlak karakter."
     },
     {
       "Id": 6,
@@ -61,7 +66,8 @@
         { "Id": 2, "option": "Een verzachtende uitdrukking voor iets onaangenaams" },
         { "Id": 3, "option": "Een overdrijving" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een eufemisme is een verzachtende uitdrukking voor iets onaangenaams, bv. 'heengaan' voor sterven. Een grof woord voor iets gewoons is een dysfemisme."
     },
     {
       "Id": 7,
@@ -71,7 +77,8 @@
         { "Id": 2, "option": "Ik ga met hen mee." },
         { "Id": 3, "option": "Dat is hen huis." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Na een voorzetsel ('met') gebruik je 'hen': 'met hen'. Bij een meewerkend voorwerp zonder voorzetsel gebruik je 'hun', en als bezit ook 'hun' (hun huis)."
     },
     {
       "Id": 8,
@@ -81,7 +88,8 @@
         { "Id": 2, "option": "tv-presentator" },
         { "Id": 3, "option": "aidsvirus" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een samenstelling met een initiaalwoord (zoals tv) krijgt een streepje: tv-presentator. Twee gewone grondwoorden (handdoek) en een letterwoord (aidsvirus) schrijf je aan elkaar."
     },
     {
       "Id": 9,
@@ -91,7 +99,8 @@
         { "Id": 2, "option": "Toen de juf voorlas, luisterden alle kleuters." },
         { "Id": 3, "option": "Toen de juf, voorlas luisterden alle kleuters." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Tussen de persoonsvormen van een bijzin en een hoofdzin staat een komma: 'Toen de juf voorlas, luisterden alle kleuters.'"
     },
     {
       "Id": 10,
@@ -101,7 +110,8 @@
         { "keyword": "hyperbool" },
         { "keyword": "overdrijving" },
         { "keyword": "lang wachten" }
-      ]
+      ],
+      "rule": "Dit is een **hyperbool** (**overdrijving**): 'een eeuw wachten' kan niet echt, de schrijver bedoelt dat hij heel **lang moest wachten**."
     }
   ]
 }

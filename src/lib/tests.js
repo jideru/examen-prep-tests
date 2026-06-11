@@ -51,6 +51,10 @@ function normalizeQuestion(raw, index) {
     .filter((keyword) => typeof keyword === 'string' && keyword.trim() !== '')
     .map((keyword) => keyword.trim());
 
+  // rule: het juiste antwoord in woorden; wordt bij de verbetering
+  // alleen getoond als de vraag fout beantwoord is.
+  const rule = String(pick(raw, 'rule', 'regel') ?? '').trim();
+
   const isMultiple = options.length > 0;
   return {
     id,
@@ -59,6 +63,7 @@ function normalizeQuestion(raw, index) {
     options,
     answer: isMultiple ? answer : undefined,
     keywords: isMultiple ? [] : keywords,
+    rule,
   };
 }
 
@@ -88,12 +93,18 @@ function normalizeTest(fileName, data) {
     ? ''
     : String(pick(data, 'password', 'wachtwoord') ?? '');
 
+  // emailTutor: na het indienen wordt het resultaat hierheen gemaild.
+  const emailTutor = Array.isArray(data)
+    ? ''
+    : String(pick(data, 'emailTutor', 'tutorEmail') ?? '').trim();
+
   return {
     id: fileName,
     course: String(course),
     title: String(title),
     gradeAtEnd,
     password,
+    emailTutor,
     questions: (Array.isArray(questionsRaw) ? questionsRaw : []).map(
       normalizeQuestion,
     ),

@@ -1,11 +1,61 @@
 import { useEffect, useState } from 'react';
 import { loadProgress, saveProgress, resetProgress } from '../lib/storage.js';
 import { checkMultiple, checkOpen } from '../lib/check.js';
+import { sendResultEmail } from '../lib/email.js';
 
 function isAnswered(question, saved) {
   return question.type === 'multiple'
     ? saved?.value !== undefined
     : (saved?.value ?? '').trim() !== '';
+}
+
+// Maakt **woorden** in een regel vet, zodat in de JSON eenvoudige
+// markdown gebruikt kan worden.
+function formatRule(text) {
+  return String(text)
+    .split('**')
+    .map((part, i) => (i % 2 === 1 ? <strong key={i}>{part}</strong> : part));
+}
+
+// Toont of het resultaat naar de begeleider gemaild is.
+function EmailStatus({ test, status, onSend }) {
+  if (!test.emailTutor) return null;
+  if (status === 'sent') {
+    return (
+      <p className="email-status is-sent" role="status">
+        📧 Het resultaat is gemaild naar {test.emailTutor}.
+      </p>
+    );
+  }
+  if (status === 'sending') {
+    return (
+      <p className="email-status" role="status">
+        Het resultaat wordt gemaild naar {test.emailTutor}…
+      </p>
+    );
+  }
+  if (status === 'activation') {
+    return (
+      <p className="email-status is-failed" role="status">
+        Er is een activatiemail gestuurd naar {test.emailTutor}. Klik daarin
+        op <strong>Activate Form</strong> en{' '}
+        <button type="button" className="link-button" onClick={onSend}>
+          mail het resultaat dan opnieuw
+        </button>
+        .
+      </p>
+    );
+  }
+  return (
+    <p className="email-status is-failed" role="status">
+      {status === 'failed'
+        ? `Het resultaat kon niet gemaild worden naar ${test.emailTutor}.`
+        : `Het resultaat is nog niet gemaild naar ${test.emailTutor}.`}{' '}
+      <button type="button" className="link-button" onClick={onSend}>
+        {status === 'failed' ? 'Probeer opnieuw' : 'Mail het resultaat'}
+      </button>
+    </p>
+  );
 }
 
 // Verbeter-knop voor de examinator. Met een wachtwoord in de JSON
@@ -157,6 +207,59 @@ export default function TestView({ test }) {
     }
   };
 
+  // Resultaat van alle vragen, ook de niet-ingevulde (die tellen als fout).
+  const buildResults = () =>
+    questions.map((q) => {
+      const a = progress.answers[q.id];
+      const { correct } = gradeAnswer(q, a);
+      const answerText =
+        q.type === 'multiple'
+          ? (q.options.find((o) => String(o.id) === String(a?.value))
+              ?.option ?? '')
+          : (a?.value ?? '');
+      return {
+        question: q.question,
+        correct: Boolean(correct),
+        answered: isAnswered(q, a),
+        answerText,
+      };
+    });
+
+  const sendResult = (force = false) => {
+    if (!test.emailTutor) return;
+    if (
+      !force &&
+      (progress.emailStatus === 'sent' || progress.emailStatus === 'sending')
+    ) {
+      return;
+    }
+    update({ emailStatus: 'sending' });
+    sendResultEmail(test, buildResults())
+      .then(() => update({ emailStatus: 'sent' }))
+      .catch((err) => {
+        console.error('Resultaat mailen mislukt:', err);
+        update({
+          emailStatus: err.message === 'activation' ? 'activation' : 'failed',
+        });
+      });
+  };
+
+  const handleSubmit = () => {
+    const unanswered = questions.length - answeredCount;
+    if (
+      unanswered > 0 &&
+      !window.confirm(
+        `Je hebt nog ${unanswered} ${
+          unanswered === 1 ? 'vraag' : 'vragen'
+        } niet ingevuld. Niet-ingevulde vragen tellen als fout. Toch indienen?`,
+      )
+    ) {
+      return;
+    }
+    update({ submitted: true });
+    sendResult();
+  };
+
   if (progress.finished) {
     return (
       <div className="test-view">
@@ -168,6 +271,11 @@ export default function TestView({ test }) {
           <p className="score-big">
             {correctCount} / {questions.length}
           </p>
+          <EmailStatus
+            test={test}
+            status={progress.emailStatus}
+            onSend={() => sendResult(true)}
+          />
           <ul className="recap-list">
             {questions.map((q, i) => {
               const a = progress.answers[q.id] ?? {};
@@ -176,15 +284,25 @@ export default function TestView({ test }) {
                   <span className="recap-icon" aria-hidden="true">
                     {a.correct ? '✓' : '✗'}
                   </span>
-                  <button
-                    type="button"
-                    className="recap-link"
-                    onClick={() =>
-                      update({ finished: false, currentIndex: i })
-                    }
-                  >
-                    {q.question}
-                  </button>
+                  <div className="recap-body">
+                    <button
+                      type="button"
+                      className="recap-link"
+                      onClick={() =>
+                        update({ finished: false, currentIndex: i })
+                      }
+                    >
+                      {q.question}
+                    </button>
+                    {!a.correct && !isAnswered(q, a) && (
+                      <p className="recap-rule">Niet ingevuld.</p>
+                    )}
+                    {!a.correct && q.rule && (
+                      <p className="recap-rule">
+                        <strong>Onthoud:</strong> {formatRule(q.rule)}
+                      </p>
+                    )}
+                  </div>
                 </li>
               );
             })}
@@ -212,6 +330,11 @@ export default function TestView({ test }) {
             <strong>{test.title}</strong> wacht op verbetering door de
             examinator. Je antwoorden staan veilig bewaard.
           </p>
+          <EmailStatus
+            test={test}
+            status={progress.emailStatus}
+            onSend={() => sendResult(true)}
+          />
           <div className="card-actions submit-actions">
             <GradeGate password={test.password} onGrade={handleGradeAll} />
             <a className="button ghost" href="#/">
@@ -339,6 +462,11 @@ export default function TestView({ test }) {
                 </p>
               </>
             )}
+            {!saved.correct && question.rule && (
+              <p className="rule">
+                <strong>Onthoud:</strong> {formatRule(question.rule)}
+              </p>
+            )}
           </div>
         )}
 
@@ -358,13 +486,7 @@ export default function TestView({ test }) {
               <button
                 type="button"
                 className="button primary"
-                disabled={!allAnswered}
-                title={
-                  allAnswered
-                    ? undefined
-                    : 'Beantwoord eerst alle vragen'
-                }
-                onClick={() => update({ submitted: true })}
+                onClick={handleSubmit}
               >
                 Dien je toets in
               </button>
@@ -390,7 +512,10 @@ export default function TestView({ test }) {
             <button
               type="button"
               className="button primary"
-              onClick={() => update({ finished: true })}
+              onClick={() => {
+                update({ finished: true });
+                sendResult();
+              }}
             >
               Bekijk je resultaat
             </button>
@@ -409,7 +534,8 @@ export default function TestView({ test }) {
           <p className="submit-hint">
             Nog {questions.length - answeredCount}{' '}
             {questions.length - answeredCount === 1 ? 'vraag' : 'vragen'}{' '}
-            onbeantwoord. Ga terug met ← Vorige om alles in te vullen.
+            niet ingevuld — die tellen als fout. Ga terug met ← Vorige als je
+            ze nog wil invullen.
           </p>
         )}
       </article>

@@ -330,6 +330,12 @@ code {
   border: 2px solid var(--coral);
 }
 
+.feedback .rule {
+  margin-top: 0.75rem;
+  padding-top: 0.75rem;
+  border-top: 1px solid rgba(43, 43, 53, 0.15);
+}
+
 .question-actions {
   display: flex;
   justify-content: space-between;
@@ -392,6 +398,35 @@ code {
   font-weight: 700;
 }
 
+/* ---- Resultaat mailen ---- */
+
+.email-status {
+  margin: 0 0 1.25rem;
+  border-radius: 10px;
+  padding: 0.6rem 1rem;
+  background: var(--accent-soft);
+  font-size: 0.95rem;
+}
+
+.email-status.is-sent {
+  background: var(--teal-soft);
+}
+
+.email-status.is-failed {
+  background: var(--coral-soft);
+}
+
+.link-button {
+  font: inherit;
+  font-weight: 700;
+  background: none;
+  border: none;
+  padding: 0;
+  color: var(--accent-dark);
+  cursor: pointer;
+  text-decoration: underline;
+}
+
 /* ---- Resultaat ---- */
 
 .result-card {
@@ -431,6 +466,18 @@ code {
   gap: 0.6rem;
   border-radius: 10px;
   padding: 0.5rem 0.75rem;
+}
+
+.recap-body {
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+
+.recap-rule {
+  margin: 0;
+  font-size: 0.95rem;
+  color: var(--ink-soft);
 }
 
 .recap-list li.is-correct {

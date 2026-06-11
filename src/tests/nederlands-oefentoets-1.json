@@ -1,5 +1,6 @@
 {
   "course": "Nederlands",
+  "emailTutor": "jderuysscher@gmail.com",
   "title": "Toets 1",
   "gradeAtEnd": false,
   "questions": [
@@ -11,7 +12,8 @@
         { "Id": 2, "option": "Het hoofdpersonage waar alles rond draait" },
         { "Id": 3, "option": "Een achtergrondfiguur die niet belangrijk is" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "De protagonist is het hoofdpersonage waar het verhaal rond draait. De tegenspeler heet de antagonist."
     },
     {
       "Id": 2,
@@ -21,7 +23,8 @@
         { "Id": 2, "option": "ABAB" },
         { "Id": 3, "option": "ABBA" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Gepaard rijm is AABB: twee regels na elkaar rijmen op elkaar. ABAB is gekruist rijm, ABBA is omarmend rijm."
     },
     {
       "Id": 3,

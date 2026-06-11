@@ -61,7 +61,8 @@ refresh gewoon.
         { "Id": 1, "option": "In de celkern" },
         { "Id": 2, "option": "In de bladgroenkorrels" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Fotosynthese gebeurt in de bladgroenkorrels, want daar zit het bladgroen."
     },
     {
       "Id": 2,
@@ -82,8 +83,16 @@ Regels:
 - **`course`** — het vak; toetsen van hetzelfde vak staan bij elkaar in het
   overzicht.
 - **`gradeAtEnd`** (optioneel, standaard `false`) — op `true` krijgt de
-  leerling géén directe feedback. Pas als alle vragen beantwoord zijn kan de
-  toets ingediend worden, waarna de examinator hem verbetert.
+  leerling géén directe feedback. De toets wordt op het einde ingediend
+  (dat kan ook met onbeantwoorde vragen — die tellen als fout), waarna de
+  examinator hem verbetert. Bij de fouten op het resultaatscherm staat de
+  `rule` van de vraag.
+- **`emailTutor`** (optioneel) — e-mailadres van de begeleider. Zodra de
+  toets ingediend (of bij directe feedback: afgerond) is, wordt het
+  resultaat met alle antwoorden automatisch naar dit adres gemaild via
+  [formsubmit.co](https://formsubmit.co). **Eenmalig:** bij de allereerste
+  mail stuurt FormSubmit een activatiemail naar dit adres — klik daarin op
+  de bevestigingsknop, anders komen er geen resultaten aan.
 - **`password`** (optioneel) — wachtwoord dat de examinator moet invullen om
   een ingediende toets te verbeteren. Laat je dit weg (of leeg), dan mag er
   zonder wachtwoord verbeterd worden. Alleen zinvol samen met
@@ -94,6 +103,9 @@ Regels:
 - **`multiple` leeg (`[]`)** — open vraag. De app kijkt na of alle
   kernwoorden uit `AnswerKeywords` in het antwoord voorkomen
   (hoofdletters, accenten en leestekens maken niet uit).
+- **`rule`** (optioneel, per vraag) — het juiste antwoord in woorden. Wordt
+  bij de verbetering alleen getoond als de vraag **fout** beantwoord is;
+  bij een juist antwoord blijft de regel verborgen.
 
 ## Voortgang wissen
 

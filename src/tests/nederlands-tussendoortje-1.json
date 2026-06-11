@@ -1,6 +1,7 @@
 {
   "course": "Nederlands",
-  "title": "tussendoortje 1",
+  "title": "Tussendoortje 1",
+  "emailTutor": "jderuysscher@gmail.com",
   "gradeAtEnd": false,
   "questions": [
     {
@@ -11,7 +12,8 @@
         { "Id": 2, "option": "Een achtergrondfiguur die kleur geeft, maar niet belangrijk is" },
         { "Id": 3, "option": "De tegenspeler van het hoofdpersonage" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een figurant is een achtergrondfiguur die kleur geeft aan het verhaal, maar niet belangrijk is voor de plot. Het belangrijkste personage is de protagonist."
     },
     {
       "Id": 2,
@@ -21,7 +23,8 @@
         { "Id": 2, "option": "Verzen die samen horen, met een witregel ertussen" },
         { "Id": 3, "option": "Versregels die telkens terugkomen" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een strofe is een groep verzen die samen horen, meestal met een witregel ertussen. Eén regel is een vers; terugkerende regels vormen een refrein."
     },
     {
       "Id": 3,
@@ -31,7 +34,8 @@
         { "Id": 2, "option": "Een gedicht met gepaard rijm" },
         { "Id": 3, "option": "Een gedicht zonder titel" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een vrij vers is een gedicht dat niet rijmt."
     },
     {
       "Id": 4,
@@ -41,7 +45,8 @@
         { "Id": 2, "option": "Woorden met een tegengestelde betekenis" },
         { "Id": 3, "option": "Een overkoepelend woord voor een groep" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een antoniem zijn woorden met een tegengestelde betekenis, zoals groot en klein. Woorden met dezelfde betekenis zijn synoniemen."
     },
     {
       "Id": 5,
@@ -51,7 +56,8 @@
         { "Id": 2, "option": "baby's" },
         { "Id": 3, "option": "babies" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Woorden op een lange open klinker (a, o, u, i, y) krijgen in het meervoud een apostrof: baby wordt baby's."
     },
     {
       "Id": 6,
@@ -61,7 +67,8 @@
         { "Id": 2, "option": "Een nieuw woord dat recent ontstaan is" },
         { "Id": 3, "option": "Een woord dat altijd al in het Nederlands bestond" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een neologisme is een nieuw woord dat recent ontstaan is, zoals selfie of googelen. Een woord dat er altijd al was, is een inheems woord."
     },
     {
       "Id": 7,
@@ -71,7 +78,8 @@
         { "Id": 2, "option": "De auto dat snel rijdt." },
         { "Id": 3, "option": "Het kind dat speelt." }
       ],
-      "answer": 3
+      "answer": 3,
+      "rule": "Bij een het-woord gebruik je 'dat': 'het kind dat speelt'. Bij een de-woord gebruik je 'die': 'de man die …'."
     },
     {
       "Id": 8,
@@ -81,7 +89,8 @@
         { "Id": 2, "option": "geïnteresseerd" },
         { "Id": 3, "option": "geintresseerd" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Bij een klinkerbotsing zet je een trema om verkeerd lezen te voorkomen: geïnteresseerd."
     },
     {
       "Id": 9,
@@ -91,7 +100,8 @@
         { "Id": 2, "option": "Een sprookje" },
         { "Id": 3, "option": "Een psychologische roman" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een onbepaalde plaats en tijd ('Er was eens'), veel magie en een happy end zijn typische kenmerken van een sprookje."
     },
     {
       "Id": 10,
@@ -102,7 +112,8 @@
         { "keyword": "hij/zij" },
         { "keyword": "één personage" },
         { "keyword": "weet niet" }
-      ]
+      ],
+      "rule": "Dit is een **personeel vertelperspectief**: je volgt de gebeurtenissen door de ogen van **één personage** (Lara, in de **hij/zij**-vorm) dat zelf **niet weet** wat er nog gaat gebeuren."
     }
   ]
 }

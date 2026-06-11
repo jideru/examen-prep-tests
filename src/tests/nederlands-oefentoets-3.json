@@ -1,6 +1,7 @@
 {
   "course": "Nederlands",
-  "title": "Toets 2",
+  "title": "Toets 21u",
+  "emailTutor": "jderuysscher@gmail.com",
   "gradeAtEnd": true,
   "questions": [
     {
@@ -11,7 +12,8 @@
         { "Id": 2, "option": "Een ondergeschikt woord, een soort van" },
         { "Id": 3, "option": "Een woord met een tegengestelde betekenis" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een hyperoniem is een overkoepelend woord voor een groep (bv. bloem voor roos en tulp). Een ondergeschikt woord ('een soort van') is een hyponiem."
     },
     {
       "Id": 2,
@@ -21,7 +23,8 @@
         { "Id": 2, "option": "Is dit jouw fiets?" },
         { "Id": 3, "option": "Ik zie jouw morgen weer." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "'Jouw' is een bezittelijk voornaamwoord (van jou) en staat voor een zelfstandig naamwoord: 'jouw fiets'. 'Jou' (zonder w) is het persoonlijk voornaamwoord: 'Ik geef het aan jou.'"
     },
     {
       "Id": 3,
@@ -31,7 +34,8 @@
         { "Id": 2, "option": "Je geeft de ander de schuld van het probleem" },
         { "Id": 3, "option": "Je herhaalt steeds wat de ander zegt" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Bij een ik-boodschap spreek je vanuit jezelf en je gevoel, zonder de ander te beschuldigen (Ik voel … wanneer … omdat …). Een jij-boodschap klinkt als een verwijt."
     },
     {
       "Id": 4,
@@ -42,7 +46,8 @@
         { "keyword": "kernwoorden" },
         { "keyword": "vragen" },
         { "keyword": "samenvatting" }
-      ]
+      ],
+      "rule": "Bij de Cornell-methode verdeel je je blad in drie delen: rechts zet je je **notities**, links de **kernwoorden** en **vragen**, en onderaan een korte **samenvatting** in eigen woorden."
     },
     {
       "Id": 5,
@@ -52,7 +57,8 @@
         { "Id": 2, "option": "Het is een beetje fris, terwijl het buiten vriest." },
         { "Id": 3, "option": "Zijn kamer was een zwijnenstal." }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Een understatement stelt iets bewust kleiner of zwakker voor dan het is (het tegenovergestelde van een hyperbool). 'Een eeuw wachten' is juist een hyperbool en 'een zwijnenstal' een metafoor."
     },
     {
       "Id": 6,
@@ -62,7 +68,8 @@
         { "Id": 2, "option": "Meewerkend voorwerp (MV)" },
         { "Id": 3, "option": "Bijwoordelijke bepaling (BWB)" }
       ],
-      "answer": 3
+      "answer": 3,
+      "rule": "'Gisteren' (wanneer?) en 'in de tuin' (waar?) geven informatie over tijd en plaats: dat zijn bijwoordelijke bepalingen (BWB)."
     },
     {
       "Id": 7,
@@ -72,7 +79,8 @@
         { "Id": 2, "option": "Flashback" },
         { "Id": 3, "option": "Motorisch moment" }
       ],
-      "answer": 1
+      "answer": 1,
+      "rule": "Een cliffhanger is wanneer het verhaal plots afbreekt op een spannend moment, zodat je nieuwsgierig wordt naar het vervolg."
     },
     {
       "Id": 8,
@@ -82,7 +90,8 @@
         { "Id": 2, "option": "Een tegenargument weerleggen" },
         { "Id": 3, "option": "Een argument geven voor het eigen standpunt" }
       ],
-      "answer": 2
+      "answer": 2,
+      "rule": "Met 'Dat klopt, maar …' geef je toe dat het tegenargument iets waars heeft en toon je daarna aan dat het niet (helemaal) klopt: dat is een tegenargument weerleggen."
     },
     {
       "Id": 9,
@@ -92,7 +101,8 @@
         { "keyword": "klinkerbotsing" },
         { "keyword": "streepje" },
         { "keyword": "verkeerd lezen" }
-      ]
+      ],
+      "rule": "'Zee-egel' is correct: door de **klinkerbotsing** (de e van 'zee' botst met de e van 'egel') zou je het woord **verkeerd lezen**, daarom zet je er een **streepje** tussen."
     },
     {
       "Id": 10,
@@ -103,7 +113,8 @@
         { "keyword": "buiten het verhaal" },
         { "keyword": "weet alles" },
         { "keyword": "kent de afloop" }
-      ]
+      ],
+      "rule": "Dit is de **alwetende verteller**: hij staat **buiten het verhaal**, **weet alles** van alle personages en **kent de afloop**. Bij een personeel perspectief volg je maar één personage dat niet alles weet."
     }
   ]
 }
