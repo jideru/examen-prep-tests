@@ -1,0 +1,108 @@
+{
+  "course": "Nederlands",
+  "title": "tussendoortje 1",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is een figurant in een verhaal?",
+      "multiple": [
+        { "Id": 1, "option": "Het belangrijkste personage" },
+        { "Id": 2, "option": "Een achtergrondfiguur die kleur geeft, maar niet belangrijk is" },
+        { "Id": 3, "option": "De tegenspeler van het hoofdpersonage" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Wat is een strofe in een gedicht?",
+      "multiple": [
+        { "Id": 1, "option": "Eén regel in een gedicht" },
+        { "Id": 2, "option": "Verzen die samen horen, met een witregel ertussen" },
+        { "Id": 3, "option": "Versregels die telkens terugkomen" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Wat is een vrij vers?",
+      "multiple": [
+        { "Id": 1, "option": "Een gedicht dat niet rijmt" },
+        { "Id": 2, "option": "Een gedicht met gepaard rijm" },
+        { "Id": 3, "option": "Een gedicht zonder titel" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 4,
+      "question": "Wat is een antoniem?",
+      "multiple": [
+        { "Id": 1, "option": "Woorden met (bijna) dezelfde betekenis" },
+        { "Id": 2, "option": "Woorden met een tegengestelde betekenis" },
+        { "Id": 3, "option": "Een overkoepelend woord voor een groep" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 5,
+      "question": "Wat is het correcte meervoud van 'baby'?",
+      "multiple": [
+        { "Id": 1, "option": "babys" },
+        { "Id": 2, "option": "baby's" },
+        { "Id": 3, "option": "babies" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 6,
+      "question": "Wat is een neologisme?",
+      "multiple": [
+        { "Id": 1, "option": "Een oud woord dat verdwijnt" },
+        { "Id": 2, "option": "Een nieuw woord dat recent ontstaan is" },
+        { "Id": 3, "option": "Een woord dat altijd al in het Nederlands bestond" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin gebruikt 'die' of 'dat' correct?",
+      "multiple": [
+        { "Id": 1, "option": "Het huis die te koop staat." },
+        { "Id": 2, "option": "De auto dat snel rijdt." },
+        { "Id": 3, "option": "Het kind dat speelt." }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 8,
+      "question": "Welk woord is correct gespeld?",
+      "multiple": [
+        { "Id": 1, "option": "geinteresseerd" },
+        { "Id": 2, "option": "geïnteresseerd" },
+        { "Id": 3, "option": "geintresseerd" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Een verhaal begint met 'Er was eens', speelt op een onbepaalde plaats en tijd, zit vol magie en eindigt met een happy end. Welk genre is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Een mythe" },
+        { "Id": 2, "option": "Een sprookje" },
+        { "Id": 3, "option": "Een psychologische roman" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 10,
+      "question": "Lees dit fragment: 'Lara liep de klas binnen. Ze voelde haar hart bonzen en vroeg zich af wat er zou gebeuren. Ze wist niet dat haar vriendin al vertrokken was.' Bepaal het vertelperspectief en leg uit waarom.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "personeel vertelperspectief" },
+        { "keyword": "hij/zij" },
+        { "keyword": "één personage" },
+        { "keyword": "weet niet" }
+      ]
+    }
+  ]
+}

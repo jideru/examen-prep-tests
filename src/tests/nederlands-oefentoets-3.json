@@ -1,0 +1,110 @@
+{
+  "course": "Nederlands",
+  "title": "Toets 2",
+  "gradeAtEnd": true,
+  "password": "Leia563",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is een hyperoniem?",
+      "multiple": [
+        { "Id": 1, "option": "Een overkoepelend woord voor een groep" },
+        { "Id": 2, "option": "Een ondergeschikt woord, een soort van" },
+        { "Id": 3, "option": "Een woord met een tegengestelde betekenis" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 2,
+      "question": "Welke zin gebruikt 'jouw' correct?",
+      "multiple": [
+        { "Id": 1, "option": "Ik geef het boek aan jouw." },
+        { "Id": 2, "option": "Is dit jouw fiets?" },
+        { "Id": 3, "option": "Ik zie jouw morgen weer." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Wat is een ik-boodschap in een discussie?",
+      "multiple": [
+        { "Id": 1, "option": "Je spreekt vanuit jezelf, zonder de ander te beschuldigen" },
+        { "Id": 2, "option": "Je geeft de ander de schuld van het probleem" },
+        { "Id": 3, "option": "Je herhaalt steeds wat de ander zegt" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 4,
+      "question": "Leg uit hoe de Cornell-methode werkt. Beschrijf de drie delen van het blad.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "notities" },
+        { "keyword": "kernwoorden" },
+        { "keyword": "vragen" },
+        { "keyword": "samenvatting" }
+      ]
+    },
+    {
+      "Id": 5,
+      "question": "Welke zin bevat een understatement?",
+      "multiple": [
+        { "Id": 1, "option": "Ik moest een eeuw wachten op de bus." },
+        { "Id": 2, "option": "Het is een beetje fris, terwijl het buiten vriest." },
+        { "Id": 3, "option": "Zijn kamer was een zwijnenstal." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 6,
+      "question": "In de zin 'Gisteren speelde hij in de tuin' zijn 'gisteren' en 'in de tuin' bepalingen. Welk soort zinsdeel zijn dit allebei?",
+      "multiple": [
+        { "Id": 1, "option": "Lijdend voorwerp (LV)" },
+        { "Id": 2, "option": "Meewerkend voorwerp (MV)" },
+        { "Id": 3, "option": "Bijwoordelijke bepaling (BWB)" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 7,
+      "question": "Een schrijver breekt het verhaal plots af op een spannend moment, zodat je nieuwsgierig bent naar het vervolg. Hoe heet deze spanningstechniek?",
+      "multiple": [
+        { "Id": 1, "option": "Cliffhanger" },
+        { "Id": 2, "option": "Flashback" },
+        { "Id": 3, "option": "Motorisch moment" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 8,
+      "question": "Je leest een stelling met daarbij dit zinnetje: 'Dat klopt, maar inoefenen kan ook in de les zelf.' Welke vaardigheid past de schrijver hier toe?",
+      "multiple": [
+        { "Id": 1, "option": "Een standpunt innemen" },
+        { "Id": 2, "option": "Een tegenargument weerleggen" },
+        { "Id": 3, "option": "Een argument geven voor het eigen standpunt" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Bepaal of dit woord correct gespeld is en leg de regel uit: 'zee-egel'. Waarom een streepje?",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "klinkerbotsing" },
+        { "keyword": "streepje" },
+        { "keyword": "verkeerd lezen" }
+      ]
+    },
+    {
+      "Id": 10,
+      "question": "Lees dit fragment: 'De verteller weet alles van alle personages, voorspelt wat er gaat gebeuren en spreekt soms de lezer aan. Hij gebruikt hij/zij en staat buiten het verhaal.' Bepaal het vertelperspectief en leg uit waarom dit geen personeel perspectief is.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "alwetende verteller" },
+        { "keyword": "buiten het verhaal" },
+        { "keyword": "weet alles" },
+        { "keyword": "kent de afloop" }
+      ]
+    }
+  ]
+}

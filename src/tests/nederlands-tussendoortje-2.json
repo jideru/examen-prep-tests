@@ -1,0 +1,108 @@
+{
+  "course": "Nederlands",
+  "title": "Tussendoortje 2",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is een 'held' als personage?",
+      "multiple": [
+        { "Id": 1, "option": "Een figuur dat dapper en slim is en zelf actie onderneemt" },
+        { "Id": 2, "option": "Een figuur dat de actie ondergaat en verkeerde keuzes maakt" },
+        { "Id": 3, "option": "Een achtergrondfiguur die kleur geeft aan het verhaal" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 2,
+      "question": "Wat is alliteratie?",
+      "multiple": [
+        { "Id": 1, "option": "Twee dingen vergelijken met 'als' of 'zoals'" },
+        { "Id": 2, "option": "Woorden die met dezelfde klank beginnen" },
+        { "Id": 3, "option": "Iets overdreven groot voorstellen" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Wat is een hyponiem?",
+      "multiple": [
+        { "Id": 1, "option": "Een overkoepelend woord voor een groep" },
+        { "Id": 2, "option": "Een ondergeschikt woord, een soort van" },
+        { "Id": 3, "option": "Een woord met een tegengestelde betekenis" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 4,
+      "question": "Waaraan is de gebiedende wijs (bevelvorm) gelijk?",
+      "multiple": [
+        { "Id": 1, "option": "Aan de stam van het werkwoord" },
+        { "Id": 2, "option": "Aan de stam + t" },
+        { "Id": 3, "option": "Aan het voltooid deelwoord" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 5,
+      "question": "Wat is een enkelvoudige zin?",
+      "multiple": [
+        { "Id": 1, "option": "Een zin met één persoonsvorm" },
+        { "Id": 2, "option": "Een zin met twee of meer persoonsvormen" },
+        { "Id": 3, "option": "Een zin zonder werkwoord" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 6,
+      "question": "Wat wil commerciële reclame bereiken?",
+      "multiple": [
+        { "Id": 1, "option": "Je gedrag veranderen voor een goed doel" },
+        { "Id": 2, "option": "Een product of dienst verkopen om winst te maken" },
+        { "Id": 3, "option": "Informatie geven zonder enig doel" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin bevat een tegenstelling?",
+      "multiple": [
+        { "Id": 1, "option": "Een kleine prijs voor een groot cadeau." },
+        { "Id": 2, "option": "De lucht kleurde zo rood als wijn." },
+        { "Id": 3, "option": "Hij werd belaagd door een baldadige bejaarde." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 8,
+      "question": "Welke zin is correct geschreven (hoofdletters)?",
+      "multiple": [
+        { "Id": 1, "option": "Ik spreek vloeiend frans." },
+        { "Id": 2, "option": "We vieren Pasen volgende week." },
+        { "Id": 3, "option": "Hij is een echte Christen." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "In een verhaal duurt een gebeurtenis maar enkele minuten, maar de auteur beschrijft die heel uitgebreid over vele bladzijden. Welk verteltempo is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Versnelling (tijdsprong)" },
+        { "Id": 2, "option": "Vertraging (retardering)" },
+        { "Id": 3, "option": "Tijddekking (isochronie)" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 10,
+      "question": "Lees de zin: 'De jonge hond blaft luid in de tuin.' Wat is de persoonsvorm en wat is het onderwerp? Leg uit hoe je het onderwerp vindt.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "blaft" },
+        { "keyword": "de jonge hond" },
+        { "keyword": "wie of wat" },
+        { "keyword": "persoonsvorm" }
+      ]
+    }
+  ]
+}

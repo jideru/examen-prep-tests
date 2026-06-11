@@ -1,0 +1,113 @@
+{
+  "course": "Nederlands",
+  "title": "Toets 22u",
+  "gradeAtEnd": true,
+  "password": "Luke456",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welk rijmschema hoort bij omarmend rijm?",
+      "multiple": [
+        { "Id": 1, "option": "AABB" },
+        { "Id": 2, "option": "ABAB" },
+        { "Id": 3, "option": "ABBA" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 2,
+      "question": "Wat is een antagonist in een verhaal?",
+      "multiple": [
+        { "Id": 1, "option": "Het hoofdpersonage waar alles rond draait" },
+        { "Id": 2, "option": "De tegenspeler die de protagonist tegenwerkt" },
+        { "Id": 3, "option": "Een achtergrondfiguur die kleur geeft aan het verhaal" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Welke letters zitten in de regel 't ex-kofschip?",
+      "multiple": [
+        { "Id": 1, "option": "t, k, f, s, ch, p" },
+        { "Id": 2, "option": "b, d, g, v, z, j" },
+        { "Id": 3, "option": "k, l, m, n, r, s" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 4,
+      "question": "Leg in je eigen woorden uit wat het verschil is tussen de vertelde tijd en de verteltijd in een verhaal.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "vertelde tijd" },
+        { "keyword": "voorbijgaat in het verhaal" },
+        { "keyword": "verteltijd" },
+        { "keyword": "lezen" }
+      ]
+    },
+    {
+      "Id": 5,
+      "question": "Welke zin bevat een personificatie?",
+      "multiple": [
+        { "Id": 1, "option": "Ik moest een eeuw wachten op de bus." },
+        { "Id": 2, "option": "De vakantie lacht ons al toe." },
+        { "Id": 3, "option": "De lucht kleurde zo rood als wijn." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 6,
+      "question": "Welk woord is correct gespeld als bezitsvorm?",
+      "multiple": [
+        { "Id": 1, "option": "Mathias rol" },
+        { "Id": 2, "option": "Mathias's rol" },
+        { "Id": 3, "option": "Mathias' rol" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 7,
+      "question": "Noem de drie soorten verband bij signaalwoorden en geef bij elk minstens één signaalwoord.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "tegenstelling" },
+        { "keyword": "maar" },
+        { "keyword": "oorzaak" },
+        { "keyword": "omdat" },
+        { "keyword": "opsomming" },
+        { "keyword": "en" }
+      ]
+    },
+    {
+      "Id": 8,
+      "question": "In de zin 'Ik leer omdat ik morgen examen heb' staan twee deelzinnen. Welk soort samengestelde zin is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Nevenschikking" },
+        { "Id": 2, "option": "Onderschikking" },
+        { "Id": 3, "option": "Een enkelvoudige zin" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Een man trotseert stormen op zee. De storm staat symbool voor zijn schuldgevoelens. Welke soort ruimte is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Geografische ruimte" },
+        { "Id": 2, "option": "Sociale ruimte" },
+        { "Id": 3, "option": "Symbolische ruimte" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 10,
+      "question": "Je leest dit fragment: 'Toen ik vijftien was, kreeg ik geelzucht. De ziekte begon in de herfst.' De ik-persoon kijkt terug en kent de afloop. Bepaal het vertelperspectief en leg uit waarom (gebruik persoon en werkwoordstijd).",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "vertellende ik" },
+        { "keyword": "ik" },
+        { "keyword": "verleden tijd" },
+        { "keyword": "kent de afloop" }
+      ]
+    }
+  ]
+}

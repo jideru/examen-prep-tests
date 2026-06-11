@@ -1,0 +1,107 @@
+{
+  "course": "Nederlands",
+  "title": "Tussendoortje 3",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is een nevenfiguur in een verhaal?",
+      "multiple": [
+        { "Id": 1, "option": "Het hoofdpersonage waar alles rond draait" },
+        { "Id": 2, "option": "Een belangrijke helper van de protagonist of antagonist" },
+        { "Id": 3, "option": "Een fout tegen de kalendertijd" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Wat is een refrein in een gedicht?",
+      "multiple": [
+        { "Id": 1, "option": "Versregels die telkens terugkomen" },
+        { "Id": 2, "option": "Eén regel in een gedicht" },
+        { "Id": 3, "option": "De afwisseling van beklemtoonde en onbeklemtoonde lettergrepen" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 3,
+      "question": "Wat is een enjambement?",
+      "multiple": [
+        { "Id": 1, "option": "Een zin die doorloopt over meerdere versregels" },
+        { "Id": 2, "option": "Verzen die samen horen" },
+        { "Id": 3, "option": "Een gedicht dat niet rijmt" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 4,
+      "question": "Wat is het correcte verkleinwoord van 'café'?",
+      "multiple": [
+        { "Id": 1, "option": "cafétje" },
+        { "Id": 2, "option": "cafeetje" },
+        { "Id": 3, "option": "café'tje" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 5,
+      "question": "Wat is een vol (rond) karakter?",
+      "multiple": [
+        { "Id": 1, "option": "Een personage met één vaste eigenschap dat niet verandert" },
+        { "Id": 2, "option": "Een personage dat op een echt mens lijkt en een evolutie doormaakt" },
+        { "Id": 3, "option": "Een achtergrondfiguur zonder belang" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 6,
+      "question": "Wat is een eufemisme?",
+      "multiple": [
+        { "Id": 1, "option": "Een grof of negatief woord voor iets gewoons" },
+        { "Id": 2, "option": "Een verzachtende uitdrukking voor iets onaangenaams" },
+        { "Id": 3, "option": "Een overdrijving" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin gebruikt 'hen' correct?",
+      "multiple": [
+        { "Id": 1, "option": "Ik geef hen een cadeau." },
+        { "Id": 2, "option": "Ik ga met hen mee." },
+        { "Id": 3, "option": "Dat is hen huis." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 8,
+      "question": "Welke samenstelling moet je met een streepje schrijven?",
+      "multiple": [
+        { "Id": 1, "option": "handdoek" },
+        { "Id": 2, "option": "tv-presentator" },
+        { "Id": 3, "option": "aidsvirus" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "In welke zin staat de komma correct?",
+      "multiple": [
+        { "Id": 1, "option": "Toen de juf voorlas luisterden, alle kleuters." },
+        { "Id": 2, "option": "Toen de juf voorlas, luisterden alle kleuters." },
+        { "Id": 3, "option": "Toen de juf, voorlas luisterden alle kleuters." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 10,
+      "question": "Lees de zin: 'Ik moest een eeuw wachten op de bus.' Welke stijlfiguur is dit en leg uit wat de schrijver ermee bedoelt.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "hyperbool" },
+        { "keyword": "overdrijving" },
+        { "keyword": "lang wachten" }
+      ]
+    }
+  ]
+}
