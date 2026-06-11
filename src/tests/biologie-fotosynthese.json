@@ -1,0 +1,36 @@
+{
+  "course": "Biologie",
+  "title": "Fotosynthese",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Waar in de plantencel vindt fotosynthese plaats?",
+      "multiple": [
+        { "Id": 1, "option": "In de celkern" },
+        { "Id": 2, "option": "In de mitochondriën" },
+        { "Id": 3, "option": "In de bladgroenkorrels" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 2,
+      "question": "Beschrijf in je eigen woorden wat een plant nodig heeft voor fotosynthese.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "zonlicht" },
+        { "keyword": "water" },
+        { "keyword": "koolstofdioxide" }
+      ]
+    },
+    {
+      "Id": 3,
+      "question": "Welk gas geeft een plant af tijdens de fotosynthese?",
+      "multiple": [
+        { "Id": 1, "option": "Koolstofdioxide" },
+        { "Id": 2, "option": "Zuurstof" },
+        { "Id": 3, "option": "Stikstof" }
+      ],
+      "answer": 2
+    }
+  ]
+}
