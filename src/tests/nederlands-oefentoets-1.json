@@ -1,0 +1,158 @@
+{
+  "course": "Nederlands",
+  "title": "oefentoets 1",
+  "gradeAtEnd": true,
+  "password": "jideru135",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is de protagonist in een verhaal?",
+      "multiple": [
+        { "Id": 1, "option": "De tegenspeler die het hoofdpersonage tegenwerkt" },
+        { "Id": 2, "option": "Het hoofdpersonage waar alles rond draait" },
+        { "Id": 3, "option": "Een achtergrondfiguur die niet belangrijk is" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Welk rijmschema hoort bij gepaard rijm?",
+      "multiple": [
+        { "Id": 1, "option": "AABB" },
+        { "Id": 2, "option": "ABAB" },
+        { "Id": 3, "option": "ABBA" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 3,
+      "question": "Welke zin bevat een vergelijking?",
+      "multiple": [
+        { "Id": 1, "option": "Zijn kamer was een zwijnenstal." },
+        { "Id": 2, "option": "De lucht kleurde zo rood als wijn." },
+        { "Id": 3, "option": "De vakantie lacht ons al toe." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 4,
+      "question": "Hoe schrijf je het verkleinwoord van 'oma'?",
+      "multiple": [
+        { "Id": 1, "option": "omatje" },
+        { "Id": 2, "option": "oma'tje" },
+        { "Id": 3, "option": "omaatje" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 5,
+      "question": "Welke zin gebruikt 'hun' correct?",
+      "multiple": [
+        { "Id": 1, "option": "Ik geef hun een cadeau." },
+        { "Id": 2, "option": "Ik ga met hun mee." },
+        { "Id": 3, "option": "Ik zie hun in de gang." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 6,
+      "question": "Wat is een synoniem?",
+      "multiple": [
+        { "Id": 1, "option": "Woorden met een tegengestelde betekenis" },
+        { "Id": 2, "option": "Woorden met (bijna) dezelfde betekenis" },
+        { "Id": 3, "option": "Een overkoepelend woord voor een groep" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 7,
+      "question": "Wat wil ideële reclame bereiken?",
+      "multiple": [
+        { "Id": 1, "option": "Een product verkopen om winst te maken" },
+        { "Id": 2, "option": "Je mening of gedrag veranderen voor een goed doel" },
+        { "Id": 3, "option": "Een bekende persoon beroemder maken" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 8,
+      "question": "Welk woord is een voltooid deelwoord?",
+      "multiple": [
+        { "Id": 1, "option": "spelen" },
+        { "Id": 2, "option": "speelt" },
+        { "Id": 3, "option": "gespeeld" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 9,
+      "question": "Welke ruimte versterkt vooral de sfeer of stemming in een verhaal?",
+      "multiple": [
+        { "Id": 1, "option": "De geografische ruimte" },
+        { "Id": 2, "option": "De sociale ruimte" },
+        { "Id": 3, "option": "De sfeerscheppende ruimte" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 10,
+      "question": "Hoeveel persoonsvormen heeft een enkelvoudige zin?",
+      "multiple": [
+        { "Id": 1, "option": "Eén" },
+        { "Id": 2, "option": "Twee" },
+        { "Id": 3, "option": "Minstens drie" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 11,
+      "question": "Een verhaal wordt verteld in de ik-vorm (ik), in de tegenwoordige tijd, en de verteller weet niet hoe het afloopt. Welk vertelperspectief is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Belevende ik" },
+        { "Id": 2, "option": "Vertellende ik" },
+        { "Id": 3, "option": "Alwetende verteller" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 12,
+      "question": "In een verhaal beslaat de vertelde tijd tachtig jaar, maar je leest het in slechts enkele bladzijden. Welk verteltempo is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Vertraging (retardering)" },
+        { "Id": 2, "option": "Versnelling (tijdsprong)" },
+        { "Id": 3, "option": "Tijddekking (isochronie)" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 13,
+      "question": "Welk woord is correct gespeld volgens de tussenletterregels?",
+      "multiple": [
+        { "Id": 1, "option": "pannekoek" },
+        { "Id": 2, "option": "pannenkoek" },
+        { "Id": 3, "option": "panneskoek" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 14,
+      "question": "In de zin 'De soep is lekker' vormen 'is' en 'lekker' samen het gezegde. Welk soort gezegde is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Een werkwoordelijk gezegde (WWG)" },
+        { "Id": 2, "option": "Een naamwoordelijk gezegde (NWG)" },
+        { "Id": 3, "option": "Een lijdend voorwerp (LV)" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 15,
+      "question": "Het woord 'kantoor' komt uit een andere taal, maar is aangepast aan de Nederlandse spelling en uitspraak. Wat voor woord is dit?",
+      "multiple": [
+        { "Id": 1, "option": "Een inheems woord" },
+        { "Id": 2, "option": "Een vreemd woord" },
+        { "Id": 3, "option": "Een bastaardwoord" }
+      ],
+      "answer": 3
+    }
+  ]
+}
