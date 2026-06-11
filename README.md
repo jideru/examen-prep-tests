@@ -21,6 +21,30 @@ http://localhost:5173).
 De bestandsnaam wordt de titel van de toets (tenzij je een `title`-veld
 meegeeft).
 
+> **Let op (online versie):** de toetsen worden tijdens het bouwen ingelezen.
+> Lokaal volstaat een refresh, maar op de online (Vercel) versie moet je het
+> JSON-bestand **committen en pushen** — Vercel bouwt dan automatisch opnieuw
+> en de toets staat live. Zie hieronder.
+
+## Deployen op Vercel
+
+De app is een statische site (Vite + React) en heeft geen server nodig.
+
+1. Push deze repo naar GitHub (al gebeurd).
+2. Ga naar [vercel.com](https://vercel.com), kies **Add New → Project** en
+   importeer de repo `examen-prep-tests`.
+3. Vercel herkent Vite automatisch. Laat de instellingen staan:
+   - **Build Command:** `npm run build`
+   - **Output Directory:** `dist`
+4. Klik **Deploy**. Na ~1 minuut krijg je een `*.vercel.app`-link.
+
+Daarna is alles automatisch: elke `git push` naar de hoofdbranch zet een
+nieuwe versie live. Een nieuwe toets toevoegen = JSON committen + pushen.
+
+Er is **geen `vercel.json` nodig**: de app gebruikt hash-routing (`#/...`),
+dus de server hoeft maar één pagina te serveren en routes werken na een
+refresh gewoon.
+
 ## Structuur van een toets-JSON
 
 ```json
