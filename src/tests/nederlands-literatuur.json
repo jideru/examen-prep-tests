@@ -1,0 +1,38 @@
+{
+  "course": "Nederlands",
+  "title": "Literatuur: tekstsoorten",
+  "gradeAtEnd": true,
+  "password": "leraar123",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is het belangrijkste doel van een betogende tekst?",
+      "multiple": [
+        { "Id": 1, "option": "De lezer informeren" },
+        { "Id": 2, "option": "De lezer overtuigen" },
+        { "Id": 3, "option": "De lezer ontspannen" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Beschrijf wat een column is. Gebruik de belangrijkste kenmerken.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "mening" },
+        { "keyword": "kort" },
+        { "keyword": "actueel" }
+      ]
+    },
+    {
+      "Id": 3,
+      "question": "Welke tekstsoort vind je meestal in een krant op de voorpagina?",
+      "multiple": [
+        { "Id": 1, "option": "Een recensie" },
+        { "Id": 2, "option": "Een nieuwsbericht" },
+        { "Id": 3, "option": "Een sprookje" }
+      ],
+      "answer": 2
+    }
+  ]
+}

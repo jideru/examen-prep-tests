@@ -1,0 +1,59 @@
+{
+  "course": "Geschiedenis",
+  "title": "De Wereldoorlogen",
+  "gradeAtEnd": true,
+  "password": "leraar123",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "In welk jaar begon de Eerste Wereldoorlog?",
+      "multiple": [
+        { "Id": 1, "option": "1912" },
+        { "Id": 2, "option": "1914" },
+        { "Id": 3, "option": "1918" },
+        { "Id": 4, "option": "1939" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Welke gebeurtenis was de directe aanleiding voor de Eerste Wereldoorlog?",
+      "multiple": [
+        { "Id": 1, "option": "De inval in Polen" },
+        { "Id": 2, "option": "De moord op Frans Ferdinand" },
+        { "Id": 3, "option": "De beurskrach van Wall Street" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Leg uit waarom de Eerste Wereldoorlog een loopgravenoorlog werd. Gebruik de belangrijkste begrippen.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "loopgraven" },
+        { "keyword": "westfront" },
+        { "keyword": "stellingenoorlog" }
+      ]
+    },
+    {
+      "Id": 4,
+      "question": "Wat was het Verdrag van Versailles en welk land moest herstelbetalingen doen?",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "vredesverdrag" },
+        { "keyword": "Duitsland" },
+        { "keyword": "herstelbetalingen" }
+      ]
+    },
+    {
+      "Id": 5,
+      "question": "In welk jaar eindigde de Tweede Wereldoorlog?",
+      "multiple": [
+        { "Id": 1, "option": "1944" },
+        { "Id": 2, "option": "1945" },
+        { "Id": 3, "option": "1946" }
+      ],
+      "answer": 2
+    }
+  ]
+}

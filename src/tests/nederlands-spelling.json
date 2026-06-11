@@ -1,0 +1,45 @@
+{
+  "course": "Nederlands",
+  "title": "Spelling: dt-regels",
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welke zin is juist gespeld?",
+      "multiple": [
+        { "Id": 1, "option": "Hij wordt morgen veertien jaar." },
+        { "Id": 2, "option": "Hij word morgen veertien jaar." },
+        { "Id": 3, "option": "Hij wordd morgen veertien jaar." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 2,
+      "question": "Vul aan: \"Jij ... (vinden) dat een goed idee.\" Welke vorm is juist?",
+      "multiple": [
+        { "Id": 1, "option": "vind" },
+        { "Id": 2, "option": "vindt" },
+        { "Id": 3, "option": "vint" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Leg uit hoe je weet of je 'word' of 'wordt' moet schrijven. Gebruik de belangrijkste begrippen.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "stam" },
+        { "keyword": "onderwerp" },
+        { "keyword": "persoonsvorm" }
+      ]
+    },
+    {
+      "Id": 4,
+      "question": "Welke zin is juist gespeld?",
+      "multiple": [
+        { "Id": 1, "option": "Het gebeurd elke dag opnieuw." },
+        { "Id": 2, "option": "Het gebeurt elke dag opnieuw." }
+      ],
+      "answer": 2
+    }
+  ]
+}
