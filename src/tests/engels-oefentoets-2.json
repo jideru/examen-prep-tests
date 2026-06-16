@@ -1,0 +1,110 @@
+{
+  "course": "Engels",
+  "emailTutor": "jderuysscher@gmail.com",
+  "title": "Toets 2",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'pear'?",
+      "multiple": [
+        { "Id": 1, "option": "Peer" },
+        { "Id": 2, "option": "Perzik" },
+        { "Id": 3, "option": "Pruim" }
+      ],
+      "answer": 1,
+      "rule": "Pear betekent peer."
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'broccoli'?",
+      "multiple": [
+        { "Id": 1, "option": "Bloemkool" },
+        { "Id": 2, "option": "Broccoli" },
+        { "Id": 3, "option": "Kool" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier gebruik je bij 'apples'?",
+      "multiple": [
+        { "Id": 1, "option": "much" },
+        { "Id": 2, "option": "many" },
+        { "Id": 3, "option": "a little" }
+      ],
+      "answer": 2,
+      "rule": "Apples zijn telbaar, dus gebruik je many."
+    },
+    {
+      "Id": 4,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "The soup tastes well." },
+        { "Id": 2, "option": "The soup tastes good." },
+        { "Id": 3, "option": "The soup tastes goodness." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 5,
+      "question": "Wat is de past simple van 'go'?",
+      "multiple": [
+        { "Id": 1, "option": "goed" },
+        { "Id": 2, "option": "gone" },
+        { "Id": 3, "option": "went" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 6,
+      "question": "Wat betekent 'bathroom'?",
+      "multiple": [
+        { "Id": 1, "option": "Badkamer" },
+        { "Id": 2, "option": "Slaapkamer" },
+        { "Id": 3, "option": "Keuken" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin staat in de past continuous?",
+      "multiple": [
+        { "Id": 1, "option": "They played football." },
+        { "Id": 2, "option": "They were playing football." },
+        { "Id": 3, "option": "They have played football." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'salami'?",
+      "multiple": [
+        { "Id": 1, "option": "Salami" },
+        { "Id": 2, "option": "Ham" },
+        { "Id": 3, "option": "Spek" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 9,
+      "question": "Welke zin gebruikt de present perfect correct?",
+      "multiple": [
+        { "Id": 1, "option": "She has visited London." },
+        { "Id": 2, "option": "She visited London since 2020." },
+        { "Id": 3, "option": "She has visit London." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'cough'?",
+      "multiple": [
+        { "Id": 1, "option": "Hoest" },
+        { "Id": 2, "option": "Koorts" },
+        { "Id": 3, "option": "Verkoudheid" }
+      ],
+      "answer": 1
+    }
+  ]
+}

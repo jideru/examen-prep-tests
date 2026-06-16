@@ -1,0 +1,108 @@
+{
+  "course": "Engels",
+  "title": "Opwarmer 2",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'pear'?",
+      "multiple": [
+        { "Id": 1, "option": "Peer" },
+        { "Id": 2, "option": "Pruim" },
+        { "Id": 3, "option": "Perzik" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'bathroom'?",
+      "multiple": [
+        { "Id": 1, "option": "Slaapkamer" },
+        { "Id": 2, "option": "Badkamer" },
+        { "Id": 3, "option": "Woonkamer" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier hoort bij 'apples'?",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "little" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 4,
+      "question": "Wat is de past simple van 'eat'?",
+      "multiple": [
+        { "Id": 1, "option": "eaten" },
+        { "Id": 2, "option": "ate" },
+        { "Id": 3, "option": "eated" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'fever'?",
+      "multiple": [
+        { "Id": 1, "option": "Verkoudheid" },
+        { "Id": 2, "option": "Hoest" },
+        { "Id": 3, "option": "Koorts" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 6,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "He drives carefully." },
+        { "Id": 2, "option": "He drives careful." },
+        { "Id": 3, "option": "He drives care." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 7,
+      "question": "Wat betekent 'broccoli'?",
+      "multiple": [
+        { "Id": 1, "option": "Broccoli" },
+        { "Id": 2, "option": "Kool" },
+        { "Id": 3, "option": "Sla" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'lighthouse'?",
+      "multiple": [
+        { "Id": 1, "option": "Poort" },
+        { "Id": 2, "option": "Vuurtoren" },
+        { "Id": 3, "option": "Dak" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Welke zin staat in de present perfect?",
+      "multiple": [
+        { "Id": 1, "option": "I have finished my homework." },
+        { "Id": 2, "option": "I finished my homework." },
+        { "Id": 3, "option": "I was finishing my homework." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'nurse'?",
+      "multiple": [
+        { "Id": 1, "option": "Dokter" },
+        { "Id": 2, "option": "Verpleegkundige" },
+        { "Id": 3, "option": "Apotheker" }
+      ],
+      "answer": 2
+    }
+  ]
+}

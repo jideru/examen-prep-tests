@@ -1,0 +1,157 @@
+{
+  "course": "Engels",
+  "title": "Toets 4",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'raspberry'?",
+      "multiple": [
+        { "Id": 1, "option": "Kers" },
+        { "Id": 2, "option": "Framboos" },
+        { "Id": 3, "option": "Aardbei" }
+      ],
+      "answer": 2,
+      "rule": "Raspberry betekent framboos."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: komkommer",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "cucumber" }
+      ],
+      "rule": "Komkommer = cucumber."
+    },
+    {
+      "Id": 3,
+      "question": "Wat betekent 'armchair'?",
+      "multiple": [
+        { "Id": 1, "option": "Kapstok" },
+        { "Id": 2, "option": "Zetel" },
+        { "Id": 3, "option": "Tapijt" }
+      ],
+      "answer": 2,
+      "rule": "Armchair betekent zetel."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Yesterday I _____ (eat) a sandwich.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "ate" }
+      ],
+      "rule": "Past simple van eat = ate."
+    },
+    {
+      "Id": 5,
+      "question": "Welke quantifier is correct? There are _____ carrots in the fridge.",
+      "multiple": [
+        { "Id": 1, "option": "much" },
+        { "Id": 2, "option": "many" },
+        { "Id": 3, "option": "little" }
+      ],
+      "answer": 2,
+      "rule": "Carrots zijn telbaar."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: headache",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "hoofdpijn" }
+      ],
+      "rule": "Headache = hoofdpijn."
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "She sings beautifully." },
+        { "Id": 2, "option": "She sings beautiful." },
+        { "Id": 3, "option": "She sings beauty." }
+      ],
+      "answer": 1,
+      "rule": "Na een werkwoord gebruik je hier een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: While I _____ (walk) home, it started to rain.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "was walking" }
+      ],
+      "rule": "Lange actie in het verleden = past continuous."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'traitor'?",
+      "multiple": [
+        { "Id": 1, "option": "Ontdekker" },
+        { "Id": 2, "option": "Verrader" },
+        { "Id": 3, "option": "Erfgenaam" }
+      ],
+      "answer": 2,
+      "rule": "Traitor betekent verrader."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: geitenkaas",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "goat cheese" }
+      ],
+      "rule": "Geitenkaas = goat cheese."
+    },
+    {
+      "Id": 11,
+      "question": "Welke vorm is correct?",
+      "multiple": [
+        { "Id": 1, "option": "I have lived here since 2020." },
+        { "Id": 2, "option": "I lived here since 2020." },
+        { "Id": 3, "option": "I am living here since 2020." }
+      ],
+      "answer": 1,
+      "rule": "Since + beginpunt => present perfect."
+    },
+    {
+      "Id": 12,
+      "question": "Vertaal naar het Nederlands: pond",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "vijver" }
+      ],
+      "rule": "Pond = vijver."
+    },
+    {
+      "Id": 13,
+      "question": "Vul in: She _____ (study) for two hours. She is tired now.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "has been studying" }
+      ],
+      "rule": "Duur van een activiteit met zichtbaar resultaat = present perfect continuous."
+    },
+    {
+      "Id": 14,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "The soup tastes good." },
+        { "Id": 2, "option": "The soup tastes well." },
+        { "Id": 3, "option": "The soup tastes nicely." }
+      ],
+      "answer": 1,
+      "rule": "Na taste gebruik je een adjective."
+    },
+    {
+      "Id": 15,
+      "question": "Vul in: By the time I arrived, they _____ already _____ (leave).",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "had left" }
+      ],
+      "rule": "Onregelmatig werkwoord leave → left."
+    }
+  ]
+}

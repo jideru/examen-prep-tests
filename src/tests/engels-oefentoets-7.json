@@ -1,0 +1,137 @@
+{
+  "course": "Engels",
+  "title": "Toets 7",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'wheelchair'?",
+      "multiple": [
+        { "Id": 1, "option": "Krukken" },
+        { "Id": 2, "option": "Rolstoel" },
+        { "Id": 3, "option": "Loopstok" }
+      ],
+      "answer": 2,
+      "rule": "Wheelchair betekent rolstoel."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: verrader",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "traitor" }
+      ],
+      "rule": "Verrader = traitor."
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier is correct? There is _____ furniture in this room.",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "a few" }
+      ],
+      "answer": 2,
+      "rule": "Furniture is ontelbaar."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: When I arrived, they _____ (eat) dinner.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "were eating" }
+      ],
+      "rule": "Een actie die bezig was toen iets anders gebeurde staat in de past continuous."
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'division'?",
+      "multiple": [
+        { "Id": 1, "option": "Verdeling / scheiding" },
+        { "Id": 2, "option": "Overwinning" },
+        { "Id": 3, "option": "Uitbreiding" }
+      ],
+      "answer": 1,
+      "rule": "Division betekent verdeling of scheiding."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: cauliflower",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "bloemkool" }
+      ],
+      "rule": "Cauliflower = bloemkool."
+    },
+    {
+      "Id": 7,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "He completed the test quick." },
+        { "Id": 2, "option": "He completed the test quickly." },
+        { "Id": 3, "option": "He completed the test quickest." }
+      ],
+      "answer": 2,
+      "rule": "Na een werkwoord gebruik je een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: I _____ (live) here since 2015.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "have lived" }
+      ],
+      "rule": "Since + tijdstip => present perfect."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'to behead'?",
+      "multiple": [
+        { "Id": 1, "option": "Vergiftigen" },
+        { "Id": 2, "option": "Onthoofden" },
+        { "Id": 3, "option": "Veroordelen" }
+      ],
+      "answer": 2,
+      "rule": "To behead betekent onthoofden."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: een inloopkast",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "walk-in closet" }
+      ],
+      "rule": "Inloopkast = walk-in closet."
+    },
+    {
+      "Id": 11,
+      "question": "Kies de correcte vorm: She _____ (study) all evening, so she is exhausted.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "has been studying" }
+      ],
+      "rule": "Duur van een activiteit met zichtbaar resultaat => present perfect continuous."
+    },
+    {
+      "Id": 12,
+      "question": "Wat betekent 'edible'?",
+      "multiple": [
+        { "Id": 1, "option": "Heerlijk" },
+        { "Id": 2, "option": "Eetbaar" },
+        { "Id": 3, "option": "Ingeblikt" }
+      ],
+      "answer": 2,
+      "rule": "Edible betekent eetbaar."
+    },
+    {
+      "Id": 13,
+      "question": "Kies de juiste tijd: Last year we _____ (visit) Edinburgh.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "visited" }
+      ],
+      "rule": "Last year verwijst naar een afgewerkt verleden => past simple."
+    }
+  ]
+}

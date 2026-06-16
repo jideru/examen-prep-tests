@@ -1,0 +1,108 @@
+{
+  "course": "Engels",
+  "title": "Opwarmer 3",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'strawberry'?",
+      "multiple": [
+        { "Id": 1, "option": "Kers" },
+        { "Id": 2, "option": "Aardbei" },
+        { "Id": 3, "option": "Framboos" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'treehouse'?",
+      "multiple": [
+        { "Id": 1, "option": "Boomhut" },
+        { "Id": 2, "option": "Rijhuis" },
+        { "Id": 3, "option": "Vijver" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier hoort bij 'water'?",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "few" },
+        { "Id": 3, "option": "much" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 4,
+      "question": "Wat is de past simple van 'see'?",
+      "multiple": [
+        { "Id": 1, "option": "saw" },
+        { "Id": 2, "option": "seen" },
+        { "Id": 3, "option": "seed" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'cough'?",
+      "multiple": [
+        { "Id": 1, "option": "Hoest" },
+        { "Id": 2, "option": "Koorts" },
+        { "Id": 3, "option": "Loopneus" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 6,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "The soup tastes well." },
+        { "Id": 2, "option": "The soup tastes good." },
+        { "Id": 3, "option": "The soup tastes nicely." }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 7,
+      "question": "Wat betekent 'goat cheese'?",
+      "multiple": [
+        { "Id": 1, "option": "Roomkaas" },
+        { "Id": 2, "option": "Geitenkaas" },
+        { "Id": 3, "option": "Brie" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'patio'?",
+      "multiple": [
+        { "Id": 1, "option": "Terras" },
+        { "Id": 2, "option": "Dak" },
+        { "Id": 3, "option": "Poort" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 9,
+      "question": "Welke zin gebruikt 'since' correct?",
+      "multiple": [
+        { "Id": 1, "option": "I have lived here since 2020." },
+        { "Id": 2, "option": "I lived here since 2020." },
+        { "Id": 3, "option": "I am living here since 2020." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'dizzy'?",
+      "multiple": [
+        { "Id": 1, "option": "Ziek" },
+        { "Id": 2, "option": "Duizelig" },
+        { "Id": 3, "option": "Moe" }
+      ],
+      "answer": 2
+    }
+  ]
+}

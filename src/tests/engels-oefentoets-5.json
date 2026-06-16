@@ -1,0 +1,157 @@
+{
+  "course": "Engels",
+  "title": "Toets 5",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'mozzarella'?",
+      "multiple": [
+        { "Id": 1, "option": "Roomkaas" },
+        { "Id": 2, "option": "Mozzarella" },
+        { "Id": 3, "option": "Geitenkaas" }
+      ],
+      "answer": 2,
+      "rule": "Mozzarella is mozzarella."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: aardbei",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "strawberry" }
+      ],
+      "rule": "Aardbei = strawberry."
+    },
+    {
+      "Id": 3,
+      "question": "Wat betekent 'ceiling'?",
+      "multiple": [
+        { "Id": 1, "option": "Plafond" },
+        { "Id": 2, "option": "Muur" },
+        { "Id": 3, "option": "Vloer" }
+      ],
+      "answer": 1,
+      "rule": "Ceiling betekent plafond."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Last week we _____ (go) to London.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "went" }
+      ],
+      "rule": "Past simple van go = went."
+    },
+    {
+      "Id": 5,
+      "question": "Welke quantifier is correct? There is _____ water in the bottle.",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "a few" }
+      ],
+      "answer": 2,
+      "rule": "Water is ontelbaar."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: cough",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "hoest" }
+      ],
+      "rule": "Cough = hoest."
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "He drives careful." },
+        { "Id": 2, "option": "He drives carefully." },
+        { "Id": 3, "option": "He drives care." }
+      ],
+      "answer": 2,
+      "rule": "Na een werkwoord gebruik je een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: They _____ (play) football when I called them.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "were playing" }
+      ],
+      "rule": "Een actie die bezig was in het verleden staat in de past continuous."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'heir'?",
+      "multiple": [
+        { "Id": 1, "option": "Erfgenaam" },
+        { "Id": 2, "option": "Ontdekker" },
+        { "Id": 3, "option": "Vorst" }
+      ],
+      "answer": 1,
+      "rule": "Heir betekent erfgenaam."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: zwembad",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "pool" }
+      ],
+      "rule": "Zwembad = pool."
+    },
+    {
+      "Id": 11,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "She has already finished her homework." },
+        { "Id": 2, "option": "She already finished her homework since 5 o'clock." },
+        { "Id": 3, "option": "She has already finish her homework." }
+      ],
+      "answer": 1,
+      "rule": "Already wordt vaak gebruikt met de present perfect."
+    },
+    {
+      "Id": 12,
+      "question": "Vertaal naar het Nederlands: sustainable",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "duurzaam" }
+      ],
+      "rule": "Sustainable = duurzaam."
+    },
+    {
+      "Id": 13,
+      "question": "Vul in: I _____ (live) here since 2018.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "have lived" }
+      ],
+      "rule": "Since + tijdstip => present perfect."
+    },
+    {
+      "Id": 14,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "The children were very happy." },
+        { "Id": 2, "option": "The children were very happily." },
+        { "Id": 3, "option": "The children were happiness." }
+      ],
+      "answer": 1,
+      "rule": "Na een vorm van 'to be' gebruik je een adjective."
+    },
+    {
+      "Id": 15,
+      "question": "Vul in: She _____ (write) emails all morning, so she needs a break now.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "has been writing" }
+      ],
+      "rule": "Een activiteit die bezig was gedurende een periode en nog effect heeft => present perfect continuous."
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "course": "Engels",
+  "title": "Toets 6",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'lamb'?",
+      "multiple": [
+        { "Id": 1, "option": "Lam" },
+        { "Id": 2, "option": "Kalf" },
+        { "Id": 3, "option": "Kip" }
+      ],
+      "answer": 1,
+      "rule": "Lamb betekent lam."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: vuurtoren",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "lighthouse" }
+      ],
+      "rule": "Vuurtoren = lighthouse."
+    },
+    {
+      "Id": 3,
+      "question": "Wat betekent 'eyebrow'?",
+      "multiple": [
+        { "Id": 1, "option": "Wimper" },
+        { "Id": 2, "option": "Wenkbrauw" },
+        { "Id": 3, "option": "Ooglid" }
+      ],
+      "answer": 2,
+      "rule": "Eyebrow betekent wenkbrauw."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: My grandfather _____ (die) in 2019.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "died" }
+      ],
+      "rule": "correct: died, Een afgewerkt moment in het verleden vraagt de past simple."
+    },
+    {
+      "Id": 5,
+      "question": "Welke quantifier is correct? There are _____ mushrooms on the pizza.",
+      "multiple": [
+        { "Id": 1, "option": "much" },
+        { "Id": 2, "option": "many" },
+        { "Id": 3, "option": "little" }
+      ],
+      "answer": 2,
+      "rule": "correct: many, Mushrooms zijn telbaar."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: pharmacist",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "apotheker" }
+      ],
+      "rule": "correct: Pharmacist betekent apotheker."
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "She speaks fluent." },
+        { "Id": 2, "option": "She speaks fluently." },
+        { "Id": 3, "option": "She speaks fluency." }
+      ],
+      "answer": 2,
+      "rule": "correct: She speaks fluently, Na een werkwoord gebruik je hier een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: While they _____ (have) dinner, somebody knocked on the door.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "were having" }
+      ],
+      "rule": "correct: were having, Een langere actie die onderbroken wordt staat in de past continuous."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'civil war'?",
+      "multiple": [
+        { "Id": 1, "option": "Wereldoorlog" },
+        { "Id": 2, "option": "Burgeroorlog" },
+        { "Id": 3, "option": "Onafhankelijkheidsoorlog" }
+      ],
+      "answer": 2,
+      "rule": "correct: Civil war betekent burgeroorlog."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: koorts",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "fever" }
+      ],
+      "rule": "correct: Koorts = fever."
+    },
+    {
+      "Id": 11,
+      "question": "Kies de correcte zin.",
+      "multiple": [
+        { "Id": 1, "option": "We have known each other for years." },
+        { "Id": 2, "option": "We know each other since years." },
+        { "Id": 3, "option": "We have knew each other for years." }
+      ],
+      "answer": 1,
+      "rule": "correct: We have known each other for years, For + periode wordt vaak gebruikt met de present perfect."
+    },
+    {
+      "Id": 12,
+      "question": "Vertaal naar het Nederlands: astonishing",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "verbazingwekkend" }
+      ],
+      "rule": "correct: Astonishing betekent verbazingwekkend."
+    },
+    {
+      "Id": 13,
+      "question": "Vul in: He _____ (work) in the garden all afternoon. That's why he is tired.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "has been working" }
+      ],
+      "rule": "correct: has been working, Een activiteit met zichtbaar resultaat in het heden vraagt vaak de present perfect continuous."
+    },
+    {
+      "Id": 14,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "The test was extremely difficult." },
+        { "Id": 2, "option": "The test was extremely difficultly." },
+        { "Id": 3, "option": "The test was difficulty." }
+      ],
+      "answer": 1,
+      "rule": "correct: The test was extremely difficult, Na een vorm van 'to be' gebruik je een adjective."
+    },
+    {
+      "Id": 15,
+      "question": "Kies de correcte vorm: _____ you ever _____ (be) to Scotland?",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "have" },
+        { "keyword": "been" }
+      ],
+      "rule": "correct: Have you ever been...?, Voor ervaringen gebruik je vaak de present perfect:"
+    }
+  ]
+}

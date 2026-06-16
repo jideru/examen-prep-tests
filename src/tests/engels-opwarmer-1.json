@@ -1,0 +1,108 @@
+{
+  "course": "Engels",
+  "title": "Opwarmer 1",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'apple'?",
+      "multiple": [
+        { "Id": 1, "option": "Peer" },
+        { "Id": 2, "option": "Appel" },
+        { "Id": 3, "option": "Perzik" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'bedroom'?",
+      "multiple": [
+        { "Id": 1, "option": "Slaapkamer" },
+        { "Id": 2, "option": "Badkamer" },
+        { "Id": 3, "option": "Keuken" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier hoort bij 'milk'?",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "a few" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 4,
+      "question": "Wat is de past simple van 'go'?",
+      "multiple": [
+        { "Id": 1, "option": "gone" },
+        { "Id": 2, "option": "goed" },
+        { "Id": 3, "option": "went" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'headache'?",
+      "multiple": [
+        { "Id": 1, "option": "Hoofdpijn" },
+        { "Id": 2, "option": "Keelpijn" },
+        { "Id": 3, "option": "Koorts" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 6,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "She sings beautifully." },
+        { "Id": 2, "option": "She sings beautiful." },
+        { "Id": 3, "option": "She sings beauty." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 7,
+      "question": "Wat betekent 'cucumber'?",
+      "multiple": [
+        { "Id": 1, "option": "Wortel" },
+        { "Id": 2, "option": "Komkommer" },
+        { "Id": 3, "option": "Bloemkool" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'pool'?",
+      "multiple": [
+        { "Id": 1, "option": "Zwembad" },
+        { "Id": 2, "option": "Vijver" },
+        { "Id": 3, "option": "Terras" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 9,
+      "question": "Welke tijd staat in deze zin: 'I was watching TV'?",
+      "multiple": [
+        { "Id": 1, "option": "Past simple" },
+        { "Id": 2, "option": "Past continuous" },
+        { "Id": 3, "option": "Present perfect" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'allergy'?",
+      "multiple": [
+        { "Id": 1, "option": "Behandeling" },
+        { "Id": 2, "option": "Allergie" },
+        { "Id": 3, "option": "Ziekte" }
+      ],
+      "answer": 2
+    }
+  ]
+}

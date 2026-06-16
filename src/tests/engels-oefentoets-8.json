@@ -1,0 +1,137 @@
+{
+  "course": "Engels",
+  "title": "Toets 8",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'bruise'?",
+      "multiple": [
+        { "Id": 1, "option": "Brandwonde" },
+        { "Id": 2, "option": "Blauwe plek" },
+        { "Id": 3, "option": "Snijwonde" }
+      ],
+      "answer": 2,
+      "rule": "correct: Bruise betekent blauwe plek."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: burgeroorlog",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "civil war" }
+      ],
+      "rule": "correct: Burgeroorlog = civil war."
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier is correct? There are only _____ people in the room.",
+      "multiple": [
+        { "Id": 1, "option": "a few" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "little" }
+      ],
+      "answer": 1,
+      "rule": "correct: People zijn telbaar, dus gebruik je a few."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: While she _____ (read), her brother was playing video games.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "was reading" }
+      ],
+      "rule": "correct: Twee acties die tegelijk bezig waren in het verleden staan in de past continuous."
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'prosecutor'?",
+      "multiple": [
+        { "Id": 1, "option": "Rechter" },
+        { "Id": 2, "option": "Aanklager" },
+        { "Id": 3, "option": "Verdediger" }
+      ],
+      "answer": 2,
+      "rule": "correct: Prosecutor betekent aanklager."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: ceiling",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "plafond" }
+      ],
+      "rule": "correct: Ceiling = plafond."
+    },
+    {
+      "Id": 7,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "The children behaved bad." },
+        { "Id": 2, "option": "The children behaved badly." },
+        { "Id": 3, "option": "The children behaved badness." }
+      ],
+      "answer": 2,
+      "rule": "correct: The children behaved badly, Na een werkwoord gebruik je een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: They _____ (know) each other for ten years.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "have known" }
+      ],
+      "rule": "correct: have known, For + periode => meestal present perfect."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'alliance'?",
+      "multiple": [
+        { "Id": 1, "option": "Bondgenootschap" },
+        { "Id": 2, "option": "Opvolging" },
+        { "Id": 3, "option": "Proces" }
+      ],
+      "answer": 1,
+      "rule": "correct: Alliance betekent bondgenootschap."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: duizelig",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "dizzy" }
+      ],
+      "rule": "correct: Duizelig = dizzy."
+    },
+    {
+      "Id": 11,
+      "question": "Kies de correcte vorm: He _____ (work) on his project all day and he still isn't finished.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "has been working" }
+      ],
+      "rule": "correct: Een activiteit die lang duurt en nog relevant is => present perfect continuous."
+    },
+    {
+      "Id": 12,
+      "question": "Wat betekent 'superb'?",
+      "multiple": [
+        { "Id": 1, "option": "Onaanvaardbaar" },
+        { "Id": 2, "option": "Voldoende" },
+        { "Id": 3, "option": "Fantastisch" }
+      ],
+      "answer": 3,
+      "rule": "correct: Superb betekent fantastisch."
+    },
+    {
+      "Id": 13,
+      "question": "Kies de juiste tijd: Yesterday I _____ (see) a documentary about Henry VIII.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "saw" }
+      ],
+      "rule": "correct: saw, Yesterday verwijst naar een afgewerkt verleden => past simple."
+    }
+  ]
+}

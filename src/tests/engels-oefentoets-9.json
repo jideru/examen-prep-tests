@@ -1,0 +1,138 @@
+{
+  "course": "Engels",
+  "title": "Toets 9",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": true,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'guide dog'?",
+      "multiple": [
+        { "Id": 1, "option": "Waakhond" },
+        { "Id": 2, "option": "Blindengeleidehond" },
+        { "Id": 3, "option": "Politiehond" }
+      ],
+      "answer": 2,
+      "rule": "Guide dog betekent blindengeleidehond."
+    },
+    {
+      "Id": 2,
+      "question": "Vertaal naar het Engels: een visioen",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "vision" }
+      ],
+      "rule": "Visioen = vision."
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier is correct? There is _____ salt in this soup.",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "a few" },
+        { "Id": 3, "option": "much" }
+      ],
+      "answer": 3,
+      "rule": "Salt is ontelbaar, dus gebruik je much."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: While we _____ (watch) a film, the electricity went out.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "were watching" }
+      ],
+      "rule": "correct: were watching, Een actie die bezig was toen iets anders gebeurde staat in de past continuous."
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent 'succession'?",
+      "multiple": [
+        { "Id": 1, "option": "Opvolging" },
+        { "Id": 2, "option": "Bondgenootschap" },
+        { "Id": 3, "option": "Uitvoering" }
+      ],
+      "answer": 1,
+      "rule": "correct: Succession betekent opvolging."
+    },
+    {
+      "Id": 6,
+      "question": "Vertaal naar het Nederlands: rug",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "back" }
+      ],
+      "rule": "correct: Rug = back."
+    },
+    {
+      "Id": 7,
+      "question": "Kies de juiste zin.",
+      "multiple": [
+        { "Id": 1, "option": "She answered the question correct." },
+        { "Id": 2, "option": "She answered the question correctly." },
+        { "Id": 3, "option": "She answered the question correctness." }
+      ],
+      "answer": 2,
+      "rule": "correct: She answered the question correctly, Na een werkwoord gebruik je een adverb."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: I _____ never _____ (be) to Ireland.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "have" },
+        { "keyword": "been" }
+      ],
+      "rule": "correct: have, been, Voor levenservaringen gebruik je vaak de present perfect."
+    },
+    {
+      "Id": 9,
+      "question": "Wat betekent 'witchcraft'?",
+      "multiple": [
+        { "Id": 1, "option": "Koningschap" },
+        { "Id": 2, "option": "Toverstok" },
+        { "Id": 3, "option": "Hekserij" }
+      ],
+      "answer": 3,
+      "rule": "correct: Witchcraft betekent hekserij."
+    },
+    {
+      "Id": 10,
+      "question": "Vertaal naar het Engels: een wond",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "wound" }
+      ],
+      "rule": "correct: Wond = wound."
+    },
+    {
+      "Id": 11,
+      "question": "Vul in: They _____ (wait) for over an hour, so they were getting impatient.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "had been waiting" }
+      ],
+      "rule": "correct: had been waiting, Een langdurige actie vóór een moment in het verleden kan in de past perfect continuous staan."
+    },
+    {
+      "Id": 12,
+      "question": "Wat betekent 'affordable'?",
+      "multiple": [
+        { "Id": 1, "option": "Duurzaam" },
+        { "Id": 2, "option": "Betaalbaar" },
+        { "Id": 3, "option": "Openbaar" }
+      ],
+      "answer": 2,
+      "rule": "Affordable betekent betaalbaar."
+    },
+    {
+      "Id": 13,
+      "question": "Kies de juiste tijd: We _____ (finish) the project yesterday.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "finished" }
+      ],
+      "rule": "correct: finished, Yesterday verwijst naar een afgewerkt verleden => past simple."
+    }
+  ]
+}

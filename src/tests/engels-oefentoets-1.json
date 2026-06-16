@@ -1,0 +1,112 @@
+{
+  "course": "Engels",
+  "emailTutor": "jderuysscher@gmail.com",
+  "title": "Toets 1",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'apple'?",
+      "multiple": [
+        { "Id": 1, "option": "Peer" },
+        { "Id": 2, "option": "Appel" },
+        { "Id": 3, "option": "Perzik" }
+      ],
+      "answer": 2,
+      "rule": "Apple betekent appel."
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'cucumber'?",
+      "multiple": [
+        { "Id": 1, "option": "Komkommer" },
+        { "Id": 2, "option": "Bloemkool" },
+        { "Id": 3, "option": "Wortel" }
+      ],
+      "answer": 1,
+      "rule": "Cucumber betekent komkommer."
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier gebruik je bij 'milk'?",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "a few" }
+      ],
+      "answer": 2,
+      "rule": "Milk is ontelbaar, dus gebruik je much."
+    },
+    {
+      "Id": 4,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "She sings beautiful." },
+        { "Id": 2, "option": "She sings beautifully." },
+        { "Id": 3, "option": "She sings beauty." }
+      ],
+      "answer": 2,
+      "rule": "Na een werkwoord gebruik je vaak een adverb."
+    },
+    {
+      "Id": 5,
+      "question": "Wat is de past simple van 'eat'?",
+      "multiple": [
+        { "Id": 1, "option": "eated" },
+        { "Id": 2, "option": "ate" },
+        { "Id": 3, "option": "eaten" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 6,
+      "question": "Wat betekent 'bedroom'?",
+      "multiple": [
+        { "Id": 1, "option": "Badkamer" },
+        { "Id": 2, "option": "Woonkamer" },
+        { "Id": 3, "option": "Slaapkamer" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 7,
+      "question": "Welke vorm is correct?",
+      "multiple": [
+        { "Id": 1, "option": "I was watching TV." },
+        { "Id": 2, "option": "I were watching TV." },
+        { "Id": 3, "option": "I watching TV." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'goat cheese'?",
+      "multiple": [
+        { "Id": 1, "option": "Roomkaas" },
+        { "Id": 2, "option": "Geitenkaas" },
+        { "Id": 3, "option": "Brie" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Welke zin gebruikt de present perfect correct?",
+      "multiple": [
+        { "Id": 1, "option": "I have finished my homework." },
+        { "Id": 2, "option": "I finished my homework since 2020." },
+        { "Id": 3, "option": "I have finish my homework." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'headache'?",
+      "multiple": [
+        { "Id": 1, "option": "Keelpijn" },
+        { "Id": 2, "option": "Hoofdpijn" },
+        { "Id": 3, "option": "Buikpijn" }
+      ],
+      "answer": 2
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "course": "Engels",
+  "emailTutor": "jderuysscher@gmail.com",
+  "title": "Toets 3",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent 'strawberry'?",
+      "multiple": [
+        { "Id": 1, "option": "Framboos" },
+        { "Id": 2, "option": "Aardbei" },
+        { "Id": 3, "option": "Kers" }
+      ],
+      "answer": 2,
+      "rule": "Strawberry betekent aardbei."
+    },
+    {
+      "Id": 2,
+      "question": "Wat betekent 'onion'?",
+      "multiple": [
+        { "Id": 1, "option": "Ui" },
+        { "Id": 2, "option": "Look" },
+        { "Id": 3, "option": "Erwt" }
+      ],
+      "answer": 1,
+      "rule": "Onion betekent ui."
+    },
+    {
+      "Id": 3,
+      "question": "Welke quantifier past het best? 'There is ___ water in the bottle.'",
+      "multiple": [
+        { "Id": 1, "option": "many" },
+        { "Id": 2, "option": "much" },
+        { "Id": 3, "option": "a few" }
+      ],
+      "answer": 2,
+      "rule": "Water is ontelbaar, dus gebruik je much."
+    },
+    {
+      "Id": 4,
+      "question": "Welke zin is correct?",
+      "multiple": [
+        { "Id": 1, "option": "He drives careful." },
+        { "Id": 2, "option": "He drives carefully." },
+        { "Id": 3, "option": "He drives care." }
+      ],
+      "answer": 2,
+      "rule": "Na een werkwoord gebruik je meestal een adverb."
+    },
+    {
+      "Id": 5,
+      "question": "Wat is de past simple van 'see'?",
+      "multiple": [
+        { "Id": 1, "option": "seed" },
+        { "Id": 2, "option": "seen" },
+        { "Id": 3, "option": "saw" }
+      ],
+      "answer": 3
+    },
+    {
+      "Id": 6,
+      "question": "Wat betekent 'treehouse'?",
+      "multiple": [
+        { "Id": 1, "option": "Boomhut" },
+        { "Id": 2, "option": "Vijver" },
+        { "Id": 3, "option": "Rijhuis" }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 7,
+      "question": "Welke zin staat in de past continuous?",
+      "multiple": [
+        { "Id": 1, "option": "She was reading a book." },
+        { "Id": 2, "option": "She read a book." },
+        { "Id": 3, "option": "She has read a book." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent 'tongue'?",
+      "multiple": [
+        { "Id": 1, "option": "Keel" },
+        { "Id": 2, "option": "Tong" },
+        { "Id": 3, "option": "Lip" }
+      ],
+      "answer": 2
+    },
+    {
+      "Id": 9,
+      "question": "Welke zin gebruikt de present perfect correct?",
+      "multiple": [
+        { "Id": 1, "option": "They have lived here for five years." },
+        { "Id": 2, "option": "They lived here for five years since 2020." },
+        { "Id": 3, "option": "They have living here for five years." }
+      ],
+      "answer": 1
+    },
+    {
+      "Id": 10,
+      "question": "Wat betekent 'allergy'?",
+      "multiple": [
+        { "Id": 1, "option": "Verkoudheid" },
+        { "Id": 2, "option": "Behandeling" },
+        { "Id": 3, "option": "Allergie" }
+      ],
+      "answer": 3
+    }
+  ]
+}
