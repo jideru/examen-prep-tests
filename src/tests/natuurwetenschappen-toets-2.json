@@ -1,0 +1,109 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Toets 2",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welk hormoon verlaagt het glucosegehalte in het bloed?",
+      "multiple": [
+        { "Id": 1, "option": "Glucagon" },
+        { "Id": 2, "option": "Insuline" },
+        { "Id": 3, "option": "Testosteron" }
+      ],
+      "answer": 2,
+      "rule": "Insuline verlaagt het glucosegehalte in het bloed."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Het hormoon dat het glucosegehalte verhoogt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "glucagon" }
+      ],
+      "rule": "Glucagon verhoogt het glucosegehalte in het bloed."
+    },
+    {
+      "Id": 3,
+      "question": "Welk orgaan produceert insuline?",
+      "multiple": [
+        { "Id": 1, "option": "Lever" },
+        { "Id": 2, "option": "Alvleesklier" },
+        { "Id": 3, "option": "Nier" }
+      ],
+      "answer": 2,
+      "rule": "Insuline wordt geproduceerd door de alvleesklier."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Glucose wordt opgeslagen als _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "glycogeen" }
+      ],
+      "rule": "Glucose wordt opgeslagen als glycogeen."
+    },
+    {
+      "Id": 5,
+      "question": "Wat gebeurt er met de lever onder invloed van glucagon?",
+      "multiple": [
+        { "Id": 1, "option": "Geeft glucose af aan het bloed" },
+        { "Id": 2, "option": "Neemt meer glucose op" },
+        { "Id": 3, "option": "Produceert insuline" }
+      ],
+      "answer": 1,
+      "rule": "Glucagon stimuleert de lever om glucose af te geven aan het bloed."
+    },
+    {
+      "Id": 6,
+      "question": "Vul in: Een te laag bloedsuikergehalte heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "hypoglycemie" }
+      ],
+      "rule": "Een te laag bloedsuikergehalte heet hypoglycemie."
+    },
+    {
+      "Id": 7,
+      "question": "Diabetes wordt vaak behandeld met ...",
+      "multiple": [
+        { "Id": 1, "option": "Insuline" },
+        { "Id": 2, "option": "Progesteron" },
+        { "Id": 3, "option": "Oestrogeen" }
+      ],
+      "answer": 1,
+      "rule": "Diabetes wordt vaak behandeld met insuline."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: Het glucosegehalte behoort tot de _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "homeostase" }
+      ],
+      "rule": "Het glucosegehalte wordt via homeostase geregeld."
+    },
+    {
+      "Id": 9,
+      "question": "Na een suikerrijke maaltijd is het glucosegehalte meestal ...",
+      "multiple": [
+        { "Id": 1, "option": "Laag" },
+        { "Id": 2, "option": "Hoog" },
+        { "Id": 3, "option": "Onveranderd" }
+      ],
+      "answer": 2,
+      "rule": "Na een suikerrijke maaltijd stijgt het glucosegehalte."
+    },
+    {
+      "Id": 10,
+      "question": "Na 30 minuten bedraagt het glucosegehalte 125 mg/dl en na 90 minuten 75 mg/dl. Hoeveel mg/dl is het gedaald? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "50,00" },
+        { "keyword": "50.00" }
+      ],
+      "rule": "125 - 75 = 50,00 mg/dl."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Toets 1",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat is homeostase?",
+      "multiple": [
+        { "Id": 1, "option": "Het in balans houden van lichaamswaarden" },
+        { "Id": 2, "option": "De vertering van voedsel" },
+        { "Id": 3, "option": "De productie van hormonen" }
+      ],
+      "answer": 1,
+      "rule": "Homeostase is het in balans houden van lichaamswaarden."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Feedback waarbij veranderingen worden tegengewerkt heet een _____ feedbacksysteem.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "negatief" }
+      ],
+      "rule": "Een negatief feedbacksysteem werkt veranderingen tegen."
+    },
+    {
+      "Id": 3,
+      "question": "Welke waarde behoort tot de homeostase?",
+      "multiple": [
+        { "Id": 1, "option": "Bloeddruk" },
+        { "Id": 2, "option": "Haarkleur" },
+        { "Id": 3, "option": "Oogkleur" }
+      ],
+      "answer": 1,
+      "rule": "Bloeddruk behoort tot de homeostase."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Bij een bevalling is er sprake van _____ feedback.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "positief" }
+      ],
+      "rule": "De bevalling is een voorbeeld van positieve feedback."
+    },
+    {
+      "Id": 5,
+      "question": "Wat gebeurt er bij een te hoge lichaamstemperatuur?",
+      "multiple": [
+        { "Id": 1, "option": "Rillen en bloedvaten vernauwen" },
+        { "Id": 2, "option": "Zweten en bloedvaten verbreden" },
+        { "Id": 3, "option": "Meer glucagon produceren" }
+      ],
+      "answer": 2,
+      "rule": "Bij een te hoge lichaamstemperatuur ga je zweten en verbreden de bloedvaten."
+    },
+    {
+      "Id": 6,
+      "question": "Vul in: Het centrum dat de lichaamstemperatuur regelt ligt in de _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "hersenen" }
+      ],
+      "rule": "Het temperatuurcentrum bevindt zich in de hersenen."
+    },
+    {
+      "Id": 7,
+      "question": "Een lichaamstemperatuur van 36,8 °C is ...",
+      "multiple": [
+        { "Id": 1, "option": "Te laag" },
+        { "Id": 2, "option": "Normaal" },
+        { "Id": 3, "option": "Koorts" }
+      ],
+      "answer": 2,
+      "rule": "36,8 °C ligt binnen de normale waarden."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: Bij kou beginnen je spieren te _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "rillen" }
+      ],
+      "rule": "Rillen zorgt voor extra warmteproductie."
+    },
+    {
+      "Id": 9,
+      "question": "Hoe heet de regeling van de lichaamstemperatuur?",
+      "multiple": [
+        { "Id": 1, "option": "Negatief feedbacksysteem" },
+        { "Id": 2, "option": "Positief feedbacksysteem" },
+        { "Id": 3, "option": "Verdamping" }
+      ],
+      "answer": 1,
+      "rule": "De regeling van de lichaamstemperatuur is een negatief feedbacksysteem."
+    },
+    {
+      "Id": 10,
+      "question": "Een persoon heeft een lichaamstemperatuur van 39,20 °C. De maximale normale temperatuur is 37,50 °C. Hoeveel °C hoger is de temperatuur? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "1,70" },
+        { "keyword": "1.70" }
+      ],
+      "rule": "39,20 - 37,50 = 1,70 °C."
+    }
+  ]
+}

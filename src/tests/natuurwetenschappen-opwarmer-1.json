@@ -1,0 +1,110 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Opwarmer Examen Juni",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent homeostase?",
+      "multiple": [
+        { "Id": 1, "option": "Het in balans houden van lichaamswaarden" },
+        { "Id": 2, "option": "Het produceren van hormonen" },
+        { "Id": 3, "option": "Het verteren van voedsel" }
+      ],
+      "answer": 1,
+      "rule": "Homeostase is het in balans houden van lichaamswaarden."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Het hormoon dat het glucosegehalte in het bloed verlaagt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "insuline" }
+      ],
+      "rule": "Insuline verlaagt het glucosegehalte in het bloed."
+    },
+    {
+      "Id": 3,
+      "question": "Wat gebeurt er wanneer je lichaamstemperatuur te hoog wordt?",
+      "multiple": [
+        { "Id": 1, "option": "Je begint te zweten" },
+        { "Id": 2, "option": "Je begint te rillen" },
+        { "Id": 3, "option": "Je maakt glucagon aan" }
+      ],
+      "answer": 1,
+      "rule": "Zweten helpt warmte afgeven."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Zaadcellen worden geproduceerd in de _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "teelballen" }
+      ],
+      "rule": "Zaadcellen worden geproduceerd in de teelballen."
+    },
+    {
+      "Id": 5,
+      "question": "Welke hormonen worden geproduceerd door het gele lichaam?",
+      "multiple": [
+        { "Id": 1, "option": "Oestrogeen en progesteron" },
+        { "Id": 2, "option": "FSH en LH" },
+        { "Id": 3, "option": "Insuline en glucagon" }
+      ],
+      "answer": 1,
+      "rule": "Het gele lichaam produceert oestrogeen en progesteron."
+    },
+    {
+      "Id": 6,
+      "question": "⭐ Een leerling heeft een lichaamstemperatuur van 34,80 °C. Is dit een normale temperatuur?",
+      "multiple": [
+        { "Id": 1, "option": "Ja" },
+        { "Id": 2, "option": "Nee, dit is onderkoeling" },
+        { "Id": 3, "option": "Nee, dit is koorts" }
+      ],
+      "answer": 2,
+      "rule": "Onder 35 °C spreken we van onderkoeling."
+    },
+    {
+      "Id": 7,
+      "question": "Vul in: Het hormoon dat de eisprong veroorzaakt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "LH" }
+      ],
+      "rule": "Een piek van LH veroorzaakt de eisprong."
+    },
+    {
+      "Id": 8,
+      "question": "⭐ Waarom is de regeling van het bloedsuikergehalte een negatief feedbacksysteem?",
+      "multiple": [
+        { "Id": 1, "option": "Omdat veranderingen worden versterkt" },
+        { "Id": 2, "option": "Omdat veranderingen worden tegengewerkt" },
+        { "Id": 3, "option": "Omdat er hormonen worden geproduceerd" }
+      ],
+      "answer": 2,
+      "rule": "Negatieve feedback werkt veranderingen tegen."
+    },
+    {
+      "Id": 9,
+      "question": "⭐ Het rendement van een toestel bedraagt 80 %. Het toestel neemt 500 J energie op. Hoeveel nuttige energie levert het toestel? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "400,00" },
+        { "keyword": "400.00" }
+      ],
+      "rule": "η = Enuttig / Eopgenomen × 100 → Enuttig = 0,80 × 500 = 400,00 J."
+    },
+    {
+      "Id": 10,
+      "question": "⭐⭐ Een toestel levert 180 J nuttige energie en heeft een rendement van 60 %. Hoeveel energie werd opgenomen? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "300,00" },
+        { "keyword": "300.00" }
+      ],
+      "rule": "Eopgenomen = 180 / 0,60 = 300,00 J."
+    }
+  ]
+}

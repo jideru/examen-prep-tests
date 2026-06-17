@@ -1,0 +1,159 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Toets 5",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welke soort feedback versterkt een verandering?",
+      "multiple": [
+        { "Id": 1, "option": "Positieve feedback" },
+        { "Id": 2, "option": "Negatieve feedback" },
+        { "Id": 3, "option": "Homeostase" }
+      ],
+      "answer": 1,
+      "rule": "Positieve feedback versterkt een verandering."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Het hormoon dat helpt om het baarmoederslijmvlies in stand te houden heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "progesteron" }
+      ],
+      "rule": "Progesteron helpt het baarmoederslijmvlies in stand te houden."
+    },
+    {
+      "Id": 3,
+      "question": "Welk orgaan zet glucose om in glycogeen?",
+      "multiple": [
+        { "Id": 1, "option": "Lever" },
+        { "Id": 2, "option": "Hypofyse" },
+        { "Id": 3, "option": "Teelbal" }
+      ],
+      "answer": 1,
+      "rule": "De lever zet glucose om in glycogeen."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Het vrouwelijke geslachtshormoon dat door de follikel wordt geproduceerd heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "oestrogeen" }
+      ],
+      "rule": "De follikel produceert oestrogeen."
+    },
+    {
+      "Id": 5,
+      "question": "Welke reactie helpt het lichaam afkoelen?",
+      "multiple": [
+        { "Id": 1, "option": "Rillen" },
+        { "Id": 2, "option": "Zweten" },
+        { "Id": 3, "option": "Bloedvaten vernauwen" }
+      ],
+      "answer": 2,
+      "rule": "Zweten helpt warmte af te geven."
+    },
+    {
+      "Id": 6,
+      "question": "Vul in: Het hormoon dat de eisprong veroorzaakt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "LH" }
+      ],
+      "rule": "Een piek van LH veroorzaakt de eisprong."
+    },
+    {
+      "Id": 7,
+      "question": "Welke aandoening ontstaat wanneer het glucosegehalte niet goed geregeld wordt?",
+      "multiple": [
+        { "Id": 1, "option": "Diabetes" },
+        { "Id": 2, "option": "Koorts" },
+        { "Id": 3, "option": "Zonnesteek" }
+      ],
+      "answer": 1,
+      "rule": "Diabetes is een stoornis in de regeling van het bloedsuikergehalte."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: Een hoge concentratie testosteron zorgt voor een _____ feedbacksysteem.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "negatief" }
+      ],
+      "rule": "Een hoge concentratie testosteron activeert negatieve feedback."
+    },
+    {
+      "Id": 9,
+      "question": "Welke hormonen bevat de combinatiepil?",
+      "multiple": [
+        { "Id": 1, "option": "Oestrogeen en progesteron" },
+        { "Id": 2, "option": "Insuline en glucagon" },
+        { "Id": 3, "option": "FSH en LH" }
+      ],
+      "answer": 1,
+      "rule": "De combinatiepil bevat oestrogeen en progesteron."
+    },
+    {
+      "Id": 10,
+      "question": "Iemand drinkt normaal 1,50 L water per dag. Op een warme dag drinkt hij 2,25 L. Hoeveel liter drinkt hij extra? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "0,75" },
+        { "keyword": "0.75" }
+      ],
+      "rule": "2,25 - 1,50 = 0,75 L."
+    },
+    {
+      "Id": 11,
+      "question": "Welke klier produceert FSH en LH?",
+      "multiple": [
+        { "Id": 1, "option": "Hypofyse" },
+        { "Id": 2, "option": "Alvleesklier" },
+        { "Id": 3, "option": "Lever" }
+      ],
+      "answer": 1,
+      "rule": "FSH en LH worden geproduceerd door de hypofyse."
+    },
+    {
+      "Id": 12,
+      "question": "Vul in: Het hormoon dat het glucosegehalte in het bloed verlaagt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "insuline" }
+      ],
+      "rule": "Insuline verlaagt het glucosegehalte."
+    },
+    {
+      "Id": 13,
+      "question": "Waarom behoort het glucosegehalte tot de homeostase?",
+      "multiple": [
+        { "Id": 1, "option": "Omdat het tussen bepaalde waarden moet blijven" },
+        { "Id": 2, "option": "Omdat het altijd stijgt" },
+        { "Id": 3, "option": "Omdat het alleen tijdens het sporten verandert" }
+      ],
+      "answer": 1,
+      "rule": "Het glucosegehalte moet binnen bepaalde grenzen blijven."
+    },
+    {
+      "Id": 14,
+      "question": "Vul in: Bij een lichaamstemperatuur lager dan 35 °C spreekt men van _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "onderkoeling" }
+      ],
+      "rule": "Onder 35 °C is er sprake van onderkoeling."
+    },
+    {
+      "Id": 15,
+      "question": "Een vrouw heeft een cyclus van 28 dagen. Menstruatie start opnieuw op dag 29. Hoeveel dagen zitten er tussen twee menstruaties? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "28,00" },
+        { "keyword": "28.00" }
+      ],
+      "rule": "Een volledige cyclus duurt 28,00 dagen."
+    }
+  ]
+}

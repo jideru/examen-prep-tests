@@ -1,0 +1,108 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Toets 3",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welk hormoon stimuleert de aanmaak van zaadcellen?",
+      "multiple": [
+        { "Id": 1, "option": "FSH" },
+        { "Id": 2, "option": "Oestrogeen" },
+        { "Id": 3, "option": "Progesteron" }
+      ],
+      "answer": 1,
+      "rule": "FSH stimuleert de aanmaak van zaadcellen."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Het belangrijkste mannelijke geslachtshormoon heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "testosteron" }
+      ],
+      "rule": "Testosteron is het belangrijkste mannelijke geslachtshormoon."
+    },
+    {
+      "Id": 3,
+      "question": "Welke klier produceert FSH en LH?",
+      "multiple": [
+        { "Id": 1, "option": "Hypofyse" },
+        { "Id": 2, "option": "Lever" },
+        { "Id": 3, "option": "Alvleesklier" }
+      ],
+      "answer": 1,
+      "rule": "FSH en LH worden geproduceerd door de hypofyse."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Een hoge concentratie testosteron _____ de productie van FSH en LH.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "remt" }
+      ],
+      "rule": "Een hoge testosteronconcentratie remt de afgifte van FSH en LH."
+    },
+    {
+      "Id": 5,
+      "question": "Wat is een secundair geslachtskenmerk bij jongens?",
+      "multiple": [
+        { "Id": 1, "option": "Baardgroei" },
+        { "Id": 2, "option": "Teelbal" },
+        { "Id": 3, "option": "Zaadcel" }
+      ],
+      "answer": 1,
+      "rule": "Baardgroei is een secundair geslachtskenmerk."
+    },
+    {
+      "Id": 6,
+      "question": "Vul in: LH stimuleert de productie van _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "testosteron" }
+      ],
+      "rule": "LH stimuleert de productie van testosteron."
+    },
+    {
+      "Id": 7,
+      "question": "De hormonale regeling bij de man is een ...",
+      "multiple": [
+        { "Id": 1, "option": "Negatief feedbacksysteem" },
+        { "Id": 2, "option": "Positief feedbacksysteem" }
+      ],
+      "answer": 1,
+      "rule": "De regeling werkt via negatieve feedback."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: Zaadcellen worden geproduceerd in de _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "teelballen" }
+      ],
+      "rule": "Zaadcellen worden geproduceerd in de teelballen."
+    },
+    {
+      "Id": 9,
+      "question": "Welke hormonen worden geproduceerd door de hypofyse?",
+      "multiple": [
+        { "Id": 1, "option": "FSH en LH" },
+        { "Id": 2, "option": "Insuline en glucagon" },
+        { "Id": 3, "option": "Oestrogeen en progesteron" }
+      ],
+      "answer": 1,
+      "rule": "De hypofyse produceert FSH en LH."
+    },
+    {
+      "Id": 10,
+      "question": "Een jonge man heeft 700 ng/dL testosteron en een oudere man 500 ng/dL. Bereken het verschil. Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "200,00" },
+        { "keyword": "200.00" }
+      ],
+      "rule": "700 - 500 = 200,00 ng/dL."
+    }
+  ]
+}

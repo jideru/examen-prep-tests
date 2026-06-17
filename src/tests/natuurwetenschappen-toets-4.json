@@ -1,0 +1,109 @@
+{
+  "course": "Natuurwetenschappen",
+  "title": "Toets 4",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Welk hormoon stimuleert de rijping van een eicel?",
+      "multiple": [
+        { "Id": 1, "option": "FSH" },
+        { "Id": 2, "option": "LH" },
+        { "Id": 3, "option": "Insuline" }
+      ],
+      "answer": 1,
+      "rule": "FSH stimuleert de rijping van een eicel."
+    },
+    {
+      "Id": 2,
+      "question": "Vul in: Een rijpende eicel bevindt zich in een _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "follikel" }
+      ],
+      "rule": "Een eicel rijpt in een follikel."
+    },
+    {
+      "Id": 3,
+      "question": "Op welke dag vindt de eisprong meestal plaats bij een cyclus van 28 dagen?",
+      "multiple": [
+        { "Id": 1, "option": "Dag 7" },
+        { "Id": 2, "option": "Dag 14" },
+        { "Id": 3, "option": "Dag 21" }
+      ],
+      "answer": 2,
+      "rule": "De eisprong vindt meestal plaats rond dag 14."
+    },
+    {
+      "Id": 4,
+      "question": "Vul in: Na de eisprong ontstaat het gele _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "lichaam" }
+      ],
+      "rule": "Na de eisprong ontstaat het gele lichaam."
+    },
+    {
+      "Id": 5,
+      "question": "Welke hormonen worden geproduceerd door het gele lichaam?",
+      "multiple": [
+        { "Id": 1, "option": "Oestrogeen en progesteron" },
+        { "Id": 2, "option": "Insuline en glucagon" },
+        { "Id": 3, "option": "FSH en LH" }
+      ],
+      "answer": 1,
+      "rule": "Het gele lichaam produceert oestrogeen en progesteron."
+    },
+    {
+      "Id": 6,
+      "question": "Vul in: Het belangrijkste vrouwelijke geslachtshormoon dat secundaire geslachtskenmerken veroorzaakt heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "oestrogeen" }
+      ],
+      "rule": "Oestrogeen veroorzaakt vrouwelijke secundaire geslachtskenmerken."
+    },
+    {
+      "Id": 7,
+      "question": "Een piek van welk hormoon veroorzaakt de eisprong?",
+      "multiple": [
+        { "Id": 1, "option": "LH" },
+        { "Id": 2, "option": "FSH" },
+        { "Id": 3, "option": "Progesteron" }
+      ],
+      "answer": 1,
+      "rule": "De LH-piek veroorzaakt de eisprong."
+    },
+    {
+      "Id": 8,
+      "question": "Vul in: Het afbreken van het baarmoederslijmvlies heet _____.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "menstruatie" }
+      ],
+      "rule": "Het afbreken van het baarmoederslijmvlies heet menstruatie."
+    },
+    {
+      "Id": 9,
+      "question": "Wat gebeurt er met het baarmoederslijmvlies bij een zwangerschap?",
+      "multiple": [
+        { "Id": 1, "option": "Het blijft behouden" },
+        { "Id": 2, "option": "Het wordt onmiddellijk afgestoten" },
+        { "Id": 3, "option": "Het verdwijnt volledig" }
+      ],
+      "answer": 1,
+      "rule": "Bij een zwangerschap blijft het baarmoederslijmvlies behouden."
+    },
+    {
+      "Id": 10,
+      "question": "Een menstruatiecyclus duurt 28 dagen. De eisprong vindt plaats op dag 14. Hoeveel dagen na het begin van de cyclus gebeurt de eisprong? Rond af op 2 cijfers na de komma.",
+      "multiple": [],
+      "AnswerKeywords": [
+        { "keyword": "14,00" },
+        { "keyword": "14.00" }
+      ],
+      "rule": "De eisprong gebeurt 14,00 dagen na de start van de cyclus."
+    }
+  ]
+}
