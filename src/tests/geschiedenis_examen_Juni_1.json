@@ -1,0 +1,416 @@
+{
+  "course": "Geschiedenis",
+  "title": "Oefening examen Juni 1",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent het dat een godsdienst monotheïstisch is?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze aanbidt meerdere goden"
+        },
+        {
+          "Id": 2,
+          "option": "Ze aanbidt slechts één god"
+        },
+        {
+          "Id": 3,
+          "option": "Ze aanbidt geen enkele god"
+        },
+        {
+          "Id": 4,
+          "option": "Ze aanbidt de keizer als god"
+        }
+      ],
+      "answer": 2,
+      "rule": "Monotheïsme betekent dat men slechts één god aanbidt. Het christendom is monotheïstisch."
+    },
+    {
+      "Id": 2,
+      "question": "Hoe noemen we een godsdienst zoals de Romeinse, die meerdere goden aanbidt?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Monotheïstisch"
+        },
+        {
+          "Id": 2,
+          "option": "Polytheïstisch"
+        },
+        {
+          "Id": 3,
+          "option": "Atheïstisch"
+        },
+        {
+          "Id": 4,
+          "option": "Orthodox"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een godsdienst met meerdere goden is polytheïstisch. De Romeinen waren polytheïstisch."
+    },
+    {
+      "Id": 3,
+      "question": "In welk jaar voert keizer Constantijn het Edict van Milaan in, waardoor het christendom wordt toegestaan?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "313"
+        },
+        {
+          "Id": 2,
+          "option": "380"
+        },
+        {
+          "Id": 3,
+          "option": "476"
+        },
+        {
+          "Id": 4,
+          "option": "498"
+        }
+      ],
+      "answer": 1,
+      "rule": "In 313 voert Constantijn het Edict van Milaan in, waardoor het christendom wordt toegestaan."
+    },
+    {
+      "Id": 4,
+      "question": "Wat gebeurde er met het christendom in 380?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het werd verboden"
+        },
+        {
+          "Id": 2,
+          "option": "Het werd de Romeinse staatsgodsdienst"
+        },
+        {
+          "Id": 3,
+          "option": "Het splitste in twee kerken"
+        },
+        {
+          "Id": 4,
+          "option": "Het verdween volledig"
+        }
+      ],
+      "answer": 2,
+      "rule": "In 380 werd het christendom de staatsgodsdienst van het Romeinse Rijk."
+    },
+    {
+      "Id": 5,
+      "question": "Wat betekent de benedictijnse regel 'ora et labora'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Bid en vecht"
+        },
+        {
+          "Id": 2,
+          "option": "Bid en werk"
+        },
+        {
+          "Id": 3,
+          "option": "Lees en schrijf"
+        },
+        {
+          "Id": 4,
+          "option": "Vast en bid"
+        }
+      ],
+      "answer": 2,
+      "rule": "'Ora et labora' is Latijn voor 'bid en werk', de kern van de regel van Benedictus."
+    },
+    {
+      "Id": 6,
+      "question": "Wie roept in 1095 op tot de eerste kruistocht?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Paus Gregorius VII"
+        },
+        {
+          "Id": 2,
+          "option": "Paus Urbanus II"
+        },
+        {
+          "Id": 3,
+          "option": "Keizer Otto III"
+        },
+        {
+          "Id": 4,
+          "option": "Benedictus van Nursia"
+        }
+      ],
+      "answer": 2,
+      "rule": "Paus Urbanus II roept in 1095 op tot een kruistocht om het Heilige Land te veroveren."
+    },
+    {
+      "Id": 7,
+      "question": "Wat beloofde de paus aan iedereen die meeging op kruistocht?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een stuk land"
+        },
+        {
+          "Id": 2,
+          "option": "Vergeving van de zonden"
+        },
+        {
+          "Id": 3,
+          "option": "Een adellijke titel"
+        },
+        {
+          "Id": 4,
+          "option": "Vrijstelling van belasting"
+        }
+      ],
+      "answer": 2,
+      "rule": "De paus beloofde de kruisvaarders vergeving van hun zonden."
+    },
+    {
+      "Id": 8,
+      "question": "Welke nieuwe kloosterorde sticht Franciscus van Assisi als reactie op de rijkdom van de kerk?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De Benedictijnen"
+        },
+        {
+          "Id": 2,
+          "option": "De Franciscanen"
+        },
+        {
+          "Id": 3,
+          "option": "De Tempeliers"
+        },
+        {
+          "Id": 4,
+          "option": "De Jezuïeten"
+        }
+      ],
+      "answer": 2,
+      "rule": "Franciscus van Assisi sticht de Franciscanerorde, die volstrekte armoede oplegt."
+    },
+    {
+      "Id": 9,
+      "question": "Wat gebeurde er tijdens het Oosters Schisma van 1054?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De paus werd afgezet"
+        },
+        {
+          "Id": 2,
+          "option": "De Oosterse en Westerse kerk splitsten zich"
+        },
+        {
+          "Id": 3,
+          "option": "Het christendom werd staatsgodsdienst"
+        },
+        {
+          "Id": 4,
+          "option": "De kruistochten begonnen"
+        }
+      ],
+      "answer": 2,
+      "rule": "In 1054 splitsten de Oosterse (orthodoxe) en de Westerse (rooms-katholieke) kerk zich: het Oosters Schisma."
+    },
+    {
+      "Id": 10,
+      "question": "In welke periode van de geschiedenis valt het grootste deel van dit hoofdstuk over het christendom?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De prehistorie"
+        },
+        {
+          "Id": 2,
+          "option": "De klassieke oudheid"
+        },
+        {
+          "Id": 3,
+          "option": "De middeleeuwen"
+        },
+        {
+          "Id": 4,
+          "option": "De nieuwste tijd"
+        }
+      ],
+      "answer": 3,
+      "rule": "Na de val van het West-Romeinse Rijk (476) spreken we van de middeleeuwen, waarin de kerk centraal staat."
+    },
+    {
+      "Id": 11,
+      "question": "Welke gebeurtenis markeert de overgang van de klassieke oudheid naar de middeleeuwen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het Edict van Milaan (313)"
+        },
+        {
+          "Id": 2,
+          "option": "De val van het West-Romeinse Rijk (476)"
+        },
+        {
+          "Id": 3,
+          "option": "De eerste kruistocht (1095)"
+        },
+        {
+          "Id": 4,
+          "option": "Het Oosters Schisma (1054)"
+        }
+      ],
+      "answer": 2,
+      "rule": "De val van het West-Romeinse Rijk in 476 wordt gezien als het begin van de middeleeuwen."
+    },
+    {
+      "Id": 12,
+      "question": "Tot welke godsdienst bekeert de Frankische koning Clovis zich rond 498?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De islam"
+        },
+        {
+          "Id": 2,
+          "option": "Het jodendom"
+        },
+        {
+          "Id": 3,
+          "option": "Het christendom"
+        },
+        {
+          "Id": 4,
+          "option": "De Romeinse godsdienst"
+        }
+      ],
+      "answer": 3,
+      "rule": "Clovis bekeert zich rond 498 tot het christendom, waardoor zijn rijk volgt."
+    },
+    {
+      "Id": 13,
+      "question": "⭐ Waarom werd het christendom zo snel populair in het Romeinse Rijk?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het beloofde rijkdom op aarde"
+        },
+        {
+          "Id": 2,
+          "option": "Het was toegankelijk en zette in op vergiffenis en het hiernamaals"
+        },
+        {
+          "Id": 3,
+          "option": "Het verplichtte heel veel regeltjes"
+        },
+        {
+          "Id": 4,
+          "option": "Het werd met geweld opgelegd door Constantijn"
+        }
+      ],
+      "answer": 2,
+      "rule": "Het christendom groeide snel omdat het toegankelijk was en sterk inzette op vergiffenis van de zonden en het hiernamaals."
+    },
+    {
+      "Id": 14,
+      "question": "⭐ Waarom waren heiligen erg geschikt om Germanen tot het christendom te bekeren?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze gaven de Germanen geld"
+        },
+        {
+          "Id": 2,
+          "option": "Ze boden een link naar het vertrouwde polytheïsme: concrete figuren om te aanbidden"
+        },
+        {
+          "Id": 3,
+          "option": "Ze spraken de Germaanse taal"
+        },
+        {
+          "Id": 4,
+          "option": "Ze verboden alle oude tradities"
+        }
+      ],
+      "answer": 2,
+      "rule": "Heiligen waren concrete figuren om te vereren, een vertrouwde link naar het oude polytheïsme van de Germanen."
+    },
+    {
+      "Id": 15,
+      "question": "⭐ Met het Dictatus Papae (1075) van Gregorius VII stelt de paus dat hij machtiger is dan de keizer. Wat is hiervan een voorbeeld?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De paus mag de keizer afzetten"
+        },
+        {
+          "Id": 2,
+          "option": "De keizer mag de paus afzetten"
+        },
+        {
+          "Id": 3,
+          "option": "De paus en keizer zijn gelijk"
+        },
+        {
+          "Id": 4,
+          "option": "De keizer benoemt de bisschoppen"
+        }
+      ],
+      "answer": 1,
+      "rule": "In het Dictatus Papae claimt Gregorius VII onder meer dat het hem toegestaan is de keizer af te zetten."
+    },
+    {
+      "Id": 16,
+      "question": "⭐⭐ Keizer Otto III schenkt bisschop Notker een graafschap. Aan wie zal de bisschop daardoor eerder gehoorzamen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Aan de paus"
+        },
+        {
+          "Id": 2,
+          "option": "Aan de keizer"
+        },
+        {
+          "Id": 3,
+          "option": "Aan de gewone gelovigen"
+        },
+        {
+          "Id": 4,
+          "option": "Aan niemand"
+        }
+      ],
+      "answer": 2,
+      "rule": "Door zulke schenkingen krijgen geestelijken hechtere banden met keizers en koningen, waardoor de paus macht verliest; de bisschop gehoorzaamt eerder de keizer."
+    },
+    {
+      "Id": 17,
+      "question": "⭐⭐ Waaraan zie je duidelijk dat de toespraak van paus Urbanus II propaganda is?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Hij geeft objectieve cijfers over het leger"
+        },
+        {
+          "Id": 2,
+          "option": "Hij schildert de tegenstander af als een 'duivels volk' en belooft beloningen in het hiernamaals"
+        },
+        {
+          "Id": 3,
+          "option": "Hij raadt mensen af om mee te gaan"
+        },
+        {
+          "Id": 4,
+          "option": "Hij spreekt enkel over handel en geld"
+        }
+      ],
+      "answer": 2,
+      "rule": "Urbanus gebruikt geladen taal ('duivels volk') en lokt met beloningen (vergeving van zonden, rijkdom): kenmerken van propaganda."
+    }
+  ]
+}

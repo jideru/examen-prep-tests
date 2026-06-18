@@ -1,0 +1,416 @@
+{
+  "course": "Geschiedenis",
+  "title": "Oefening examen Juni 4",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Uit welke domeinen kan een historische gebeurtenis komen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Politiek, economisch, sociaal en cultureel"
+        },
+        {
+          "Id": 2,
+          "option": "Goed en kwaad"
+        },
+        {
+          "Id": 3,
+          "option": "Verleden en heden"
+        },
+        {
+          "Id": 4,
+          "option": "Land en zee"
+        }
+      ],
+      "answer": 1,
+      "rule": "Het historisch referentiekader onderscheidt de domeinen politiek, economisch, sociaal en cultureel."
+    },
+    {
+      "Id": 2,
+      "question": "Wat moet je doen om het historisch referentiekader van een bron te geven?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze situeren in tijd, ruimte en domein"
+        },
+        {
+          "Id": 2,
+          "option": "Ze vertalen naar het Nederlands"
+        },
+        {
+          "Id": 3,
+          "option": "Ze mooi overtekenen"
+        },
+        {
+          "Id": 4,
+          "option": "Ze uit het hoofd leren"
+        }
+      ],
+      "answer": 1,
+      "rule": "Het historisch referentiekader betekent een gebeurtenis of bron situeren in tijd, ruimte en domein."
+    },
+    {
+      "Id": 3,
+      "question": "Welke van onderstaande zinnen is een MENING (en geen feit)?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De Guldensporenslag vond plaats in 1302"
+        },
+        {
+          "Id": 2,
+          "option": "Kortrijk ligt in Vlaanderen"
+        },
+        {
+          "Id": 3,
+          "option": "De Vlamingen waren de dapperste soldaten ooit"
+        },
+        {
+          "Id": 4,
+          "option": "De pest werd verspreid door vlooien"
+        }
+      ],
+      "answer": 3,
+      "rule": "'De dapperste soldaten ooit' is een waardeoordeel, dus een mening; de andere zinnen zijn controleerbare feiten."
+    },
+    {
+      "Id": 4,
+      "question": "Welke van onderstaande zinnen is een FEIT (en geen mening)?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De middeleeuwen waren de mooiste periode"
+        },
+        {
+          "Id": 2,
+          "option": "Het christendom werd in 380 staatsgodsdienst"
+        },
+        {
+          "Id": 3,
+          "option": "De adel was lui"
+        },
+        {
+          "Id": 4,
+          "option": "De pest was een terechte straf"
+        }
+      ],
+      "answer": 2,
+      "rule": "Dat het christendom in 380 staatsgodsdienst werd, is een controleerbaar feit; de rest zijn meningen."
+    },
+    {
+      "Id": 5,
+      "question": "Bij de historische kritiek vraag je je onder andere af:",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Is de maker een ooggetuige van de gebeurtenis?"
+        },
+        {
+          "Id": 2,
+          "option": "Hoe duur is de bron?"
+        },
+        {
+          "Id": 3,
+          "option": "Is de bron mooi gemaakt?"
+        },
+        {
+          "Id": 4,
+          "option": "Hoe zwaar is de bron?"
+        }
+      ],
+      "answer": 1,
+      "rule": "Bij historische kritiek onderzoek je o.a. of de maker een ooggetuige was, of de bron betrouwbaar en objectief is."
+    },
+    {
+      "Id": 6,
+      "question": "Wat betekent het als een bron 'subjectief' is?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De bron geeft enkel neutrale feiten"
+        },
+        {
+          "Id": 2,
+          "option": "De bron geeft een gekleurde, persoonlijke kijk"
+        },
+        {
+          "Id": 3,
+          "option": "De bron is heel oud"
+        },
+        {
+          "Id": 4,
+          "option": "De bron is in het Latijn geschreven"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een subjectieve bron geeft een gekleurde, persoonlijke mening of kijk weer, geen neutrale feiten."
+    },
+    {
+      "Id": 7,
+      "question": "Welke drie grote tijdvakken komen in deze leerstof voor, in de juiste volgorde?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Middeleeuwen – oudheid – vroegmoderne tijd"
+        },
+        {
+          "Id": 2,
+          "option": "Klassieke oudheid – middeleeuwen – vroegmoderne tijd"
+        },
+        {
+          "Id": 3,
+          "option": "Prehistorie – oudheid – middeleeuwen"
+        },
+        {
+          "Id": 4,
+          "option": "Vroegmoderne tijd – middeleeuwen – oudheid"
+        }
+      ],
+      "answer": 2,
+      "rule": "De volgorde is klassieke oudheid, daarna middeleeuwen (vanaf 476), daarna de vroegmoderne tijd (vanaf ca. 1450/1500)."
+    },
+    {
+      "Id": 8,
+      "question": "Wie was Hendrik Conscience en wat deed hij?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een middeleeuwse ridder die in 1302 vocht"
+        },
+        {
+          "Id": 2,
+          "option": "Een 19e-eeuwse schrijver die 'De Leeuw van Vlaanderen' schreef"
+        },
+        {
+          "Id": 3,
+          "option": "De graaf van Vlaanderen"
+        },
+        {
+          "Id": 4,
+          "option": "Een pestdokter"
+        }
+      ],
+      "answer": 2,
+      "rule": "Hendrik Conscience was een 19e-eeuwse schrijver die met 'De Leeuw van Vlaanderen' (1838) de Guldensporenslag bekend maakte."
+    },
+    {
+      "Id": 9,
+      "question": "Waarvoor werd het verhaal van de Guldensporenslag in de 19e eeuw gebruikt?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Om de pest te bestrijden"
+        },
+        {
+          "Id": 2,
+          "option": "Om het Belgische natiegevoel te versterken"
+        },
+        {
+          "Id": 3,
+          "option": "Om kruistochten te organiseren"
+        },
+        {
+          "Id": 4,
+          "option": "Om de kerk te hervormen"
+        }
+      ],
+      "answer": 2,
+      "rule": "Conscience gebruikte het verhaal ter versterking van het Belgische natiegevoel; later werd het juist een Vlaams symbool."
+    },
+    {
+      "Id": 10,
+      "question": "In welke stad was Brugge gespecialiseerd in de productie en export van laken?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Brugge maakte vooral wapens"
+        },
+        {
+          "Id": 2,
+          "option": "Brugge maakte en exporteerde laken (wollen stof)"
+        },
+        {
+          "Id": 3,
+          "option": "Brugge maakte vooral wijn"
+        },
+        {
+          "Id": 4,
+          "option": "Brugge maakte vooral boeken"
+        }
+      ],
+      "answer": 2,
+      "rule": "Brugge was gespecialiseerd in het maken en exporteren van laken, een wollen stof die de stad enorm rijk maakte."
+    },
+    {
+      "Id": 11,
+      "question": "Wat was de regel van Benedictus vooral gericht op?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Rijkdom en macht"
+        },
+        {
+          "Id": 2,
+          "option": "Eenvoud en gematigdheid"
+        },
+        {
+          "Id": 3,
+          "option": "Oorlog voeren"
+        },
+        {
+          "Id": 4,
+          "option": "Handel drijven"
+        }
+      ],
+      "answer": 2,
+      "rule": "De regel van Benedictus blonk uit in eenvoud en gematigdheid ('ora et labora')."
+    },
+    {
+      "Id": 12,
+      "question": "Wat is een incubatieperiode bij een ziekte?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De periode na de genezing"
+        },
+        {
+          "Id": 2,
+          "option": "De periode tussen besmetting en de eerste ziektekenmerken"
+        },
+        {
+          "Id": 3,
+          "option": "De periode dat men in quarantaine zit"
+        },
+        {
+          "Id": 4,
+          "option": "De periode dat een vaccin werkt"
+        }
+      ],
+      "answer": 2,
+      "rule": "De incubatieperiode is de tijd tussen de besmetting en het verschijnen van de eerste ziektekenmerken."
+    },
+    {
+      "Id": 13,
+      "question": "⭐ Waarom is Vlaanderen in de 14e eeuw economisch sterk afhankelijk van Engeland?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Engeland leverde de wapens"
+        },
+        {
+          "Id": 2,
+          "option": "Engeland leverde de wol nodig voor het Vlaamse laken"
+        },
+        {
+          "Id": 3,
+          "option": "Engeland leverde graan"
+        },
+        {
+          "Id": 4,
+          "option": "Engeland leverde soldaten"
+        }
+      ],
+      "answer": 2,
+      "rule": "De Vlaamse lakenindustrie had Engelse wol nodig, terwijl Engeland net de aartsvijand van Frankrijk was: dat zorgde voor spanning."
+    },
+    {
+      "Id": 14,
+      "question": "⭐ Hendrik Conscience was géén ooggetuige van de Guldensporenslag. Hoe weet je dat zeker?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Hij schreef het boek pas in de 19e eeuw, ruim 500 jaar na de slag van 1302"
+        },
+        {
+          "Id": 2,
+          "option": "Hij woonde in Frankrijk"
+        },
+        {
+          "Id": 3,
+          "option": "Hij was een ridder"
+        },
+        {
+          "Id": 4,
+          "option": "Hij stierf voor 1302"
+        }
+      ],
+      "answer": 1,
+      "rule": "Conscience leefde in de 19e eeuw, terwijl de slag in 1302 plaatsvond: hij kon dus onmogelijk een ooggetuige zijn."
+    },
+    {
+      "Id": 15,
+      "question": "⭐ Is 'De Leeuw van Vlaanderen' een objectieve of subjectieve bron over de slag?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Objectief, want het geeft enkel neutrale feiten"
+        },
+        {
+          "Id": 2,
+          "option": "Subjectief, want Conscience kiest duidelijk partij voor de Vlamingen"
+        },
+        {
+          "Id": 3,
+          "option": "Objectief, want hij was er zelf bij"
+        },
+        {
+          "Id": 4,
+          "option": "Geen van beide"
+        }
+      ],
+      "answer": 2,
+      "rule": "De roman is subjectief: Conscience kiest duidelijk de kant van de Vlamingen en romantiseert de strijd."
+    },
+    {
+      "Id": 16,
+      "question": "⭐⭐ Een tekst zegt 'wel 24 edelen werden gedood'. Lodewijk van Velthem schreef dit, maar woonde in Brabant. Wat besluit je voor de betrouwbaarheid?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Hij was zeker een ooggetuige en dus volledig betrouwbaar"
+        },
+        {
+          "Id": 2,
+          "option": "Hij was waarschijnlijk geen ooggetuige; zijn cijfers moet je voorzichtig benaderen"
+        },
+        {
+          "Id": 3,
+          "option": "De bron is waardeloos"
+        },
+        {
+          "Id": 4,
+          "option": "De bron is een mening zonder feiten"
+        }
+      ],
+      "answer": 2,
+      "rule": "Omdat Velthem in Brabant woonde, was hij wellicht geen ooggetuige; zijn aantallen ('ik kan het niet precies noemen') benader je dus kritisch."
+    },
+    {
+      "Id": 17,
+      "question": "⭐⭐ Waarom kan eenzelfde gebeurtenis als de Guldensporenslag voor heel verschillende doeleinden gebruikt worden?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Omdat niemand weet wanneer ze plaatsvond"
+        },
+        {
+          "Id": 2,
+          "option": "Omdat een verhaal over het verleden (propaganda) kan worden ingezet voor de boodschap van het heden"
+        },
+        {
+          "Id": 3,
+          "option": "Omdat de slag nooit echt gebeurd is"
+        },
+        {
+          "Id": 4,
+          "option": "Omdat er geen bronnen over bestaan"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een historisch verhaal kan als propaganda dienen: de Guldensporenslag werd zowel voor het Belgische natiegevoel als later voor de Vlaamse Beweging gebruikt."
+    }
+  ]
+}

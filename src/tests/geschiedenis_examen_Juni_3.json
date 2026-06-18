@@ -1,0 +1,416 @@
+{
+  "course": "Geschiedenis",
+  "title": "Oefening examen Juni 3",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Uit welke drie standen bestaat de standensamenleving?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Koningen, ridders en boeren"
+        },
+        {
+          "Id": 2,
+          "option": "Clerus, adel en derde stand"
+        },
+        {
+          "Id": 3,
+          "option": "Rijken, armen en slaven"
+        },
+        {
+          "Id": 4,
+          "option": "Paus, keizer en volk"
+        }
+      ],
+      "answer": 2,
+      "rule": "De drie standen zijn de clerus (bidden), de adel (vechten/besturen) en de derde stand (werken)."
+    },
+    {
+      "Id": 2,
+      "question": "Welke taak had de clerus in de standensamenleving?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het land verdedigen"
+        },
+        {
+          "Id": 2,
+          "option": "Het contact met God verzorgen (bidden)"
+        },
+        {
+          "Id": 3,
+          "option": "Belasting betalen"
+        },
+        {
+          "Id": 4,
+          "option": "Handel drijven"
+        }
+      ],
+      "answer": 2,
+      "rule": "De clerus moest bidden en het contact met God verzorgen."
+    },
+    {
+      "Id": 3,
+      "question": "Welke stand betaalde (bijna) alle belastingen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De clerus"
+        },
+        {
+          "Id": 2,
+          "option": "De adel"
+        },
+        {
+          "Id": 3,
+          "option": "De derde stand"
+        },
+        {
+          "Id": 4,
+          "option": "De koning"
+        }
+      ],
+      "answer": 3,
+      "rule": "De derde stand draaide op voor al het werk en betaalde de belastingen; adel en clerus waren grotendeels vrijgesteld."
+    },
+    {
+      "Id": 4,
+      "question": "Wat zijn 'tienden'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een tiende van de oogst die je als belasting moest afstaan"
+        },
+        {
+          "Id": 2,
+          "option": "Tien dagen verplicht legerdienst"
+        },
+        {
+          "Id": 3,
+          "option": "Tien gouden munten"
+        },
+        {
+          "Id": 4,
+          "option": "Een tiende stand"
+        }
+      ],
+      "answer": 1,
+      "rule": "Tienden zijn een belasting: 1/10 van de oogst die men moest afstaan."
+    },
+    {
+      "Id": 5,
+      "question": "Wat is een gilde?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een groep edellieden"
+        },
+        {
+          "Id": 2,
+          "option": "Een vereniging van ambachtslieden van eenzelfde beroep"
+        },
+        {
+          "Id": 3,
+          "option": "Een leger van de koning"
+        },
+        {
+          "Id": 4,
+          "option": "Een klooster"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een gilde is een vereniging van ambachtslieden die hetzelfde beroep uitoefenen."
+    },
+    {
+      "Id": 6,
+      "question": "Wat is het verschil tussen een 'stand' en een 'klasse'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een stand is gebaseerd op rijkdom, een klasse op geboorte"
+        },
+        {
+          "Id": 2,
+          "option": "Een stand wordt bepaald door geboorte, een klasse door rijkdom"
+        },
+        {
+          "Id": 3,
+          "option": "Ze betekenen exact hetzelfde"
+        },
+        {
+          "Id": 4,
+          "option": "Een stand bestaat enkel op het platteland"
+        }
+      ],
+      "answer": 2,
+      "rule": "Je wordt geboren in een stand (vast voor het leven), terwijl een klasse gebaseerd is op rijkdom."
+    },
+    {
+      "Id": 7,
+      "question": "Wanneer vond de Guldensporenslag plaats?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "11 juli 1302"
+        },
+        {
+          "Id": 2,
+          "option": "1 januari 1300"
+        },
+        {
+          "Id": 3,
+          "option": "17 mei 1302"
+        },
+        {
+          "Id": 4,
+          "option": "11 juli 1402"
+        }
+      ],
+      "answer": 1,
+      "rule": "De Guldensporenslag vond plaats op 11 juli 1302."
+    },
+    {
+      "Id": 8,
+      "question": "Bij welke stad vond de Guldensporenslag plaats?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Brugge"
+        },
+        {
+          "Id": 2,
+          "option": "Gent"
+        },
+        {
+          "Id": 3,
+          "option": "Kortrijk"
+        },
+        {
+          "Id": 4,
+          "option": "Antwerpen"
+        }
+      ],
+      "answer": 3,
+      "rule": "De Guldensporenslag werd uitgevochten bij Kortrijk."
+    },
+    {
+      "Id": 9,
+      "question": "Welke twee kampen stonden tegenover elkaar?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Leliaards (kant Frankrijk) en Klauwaards (kant Vlaamse graaf)"
+        },
+        {
+          "Id": 2,
+          "option": "Romeinen en Germanen"
+        },
+        {
+          "Id": 3,
+          "option": "Adel en clerus"
+        },
+        {
+          "Id": 4,
+          "option": "Gilden en kloosters"
+        }
+      ],
+      "answer": 1,
+      "rule": "De Leliaards kozen de kant van de Franse koning, de Klauwaards die van de Vlaamse graaf."
+    },
+    {
+      "Id": 10,
+      "question": "Wie was de graaf van Vlaanderen ten tijde van de Guldensporenslag?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Filips IV de Schone"
+        },
+        {
+          "Id": 2,
+          "option": "Gwijde van Dampierre"
+        },
+        {
+          "Id": 3,
+          "option": "Hendrik Conscience"
+        },
+        {
+          "Id": 4,
+          "option": "Robrecht d'Artois"
+        }
+      ],
+      "answer": 2,
+      "rule": "Gwijde van Dampierre was de graaf van Vlaanderen; Filips IV de Schone was de Franse koning."
+    },
+    {
+      "Id": 11,
+      "question": "Hoe noemt men de nachtelijke opstand van Vlaamse stedelingen in mei 1302?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De Guldensporenslag"
+        },
+        {
+          "Id": 2,
+          "option": "De Brugse Metten"
+        },
+        {
+          "Id": 3,
+          "option": "Het Oosters Schisma"
+        },
+        {
+          "Id": 4,
+          "option": "De Godsvredebeweging"
+        }
+      ],
+      "answer": 2,
+      "rule": "De nachtelijke opstand van 17 op 18 mei 1302 noemt men de Brugse Metten."
+    },
+    {
+      "Id": 12,
+      "question": "Wie schreef de roman 'De Leeuw van Vlaanderen'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Adalbero van Laon"
+        },
+        {
+          "Id": 2,
+          "option": "Hendrik Conscience"
+        },
+        {
+          "Id": 3,
+          "option": "Jacob van Maerlant"
+        },
+        {
+          "Id": 4,
+          "option": "Lodewijk van Velthem"
+        }
+      ],
+      "answer": 2,
+      "rule": "Hendrik Conscience schreef 'De Leeuw van Vlaanderen' (1838)."
+    },
+    {
+      "Id": 13,
+      "question": "⭐ Waarom mocht de adel geen handel drijven of handenarbeid verrichten?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Dat was te gevaarlijk"
+        },
+        {
+          "Id": 2,
+          "option": "Dat werd als onwaardig beschouwd voor een edelman"
+        },
+        {
+          "Id": 3,
+          "option": "Dat was verboden door de paus"
+        },
+        {
+          "Id": 4,
+          "option": "Dat leverde te weinig op"
+        }
+      ],
+      "answer": 2,
+      "rule": "Handel drijven en handenarbeid werden als onwaardig beschouwd voor de adel; dat was voorbehouden aan de derde stand."
+    },
+    {
+      "Id": 14,
+      "question": "⭐ Waarom kwam de adel vanaf de 15e eeuw financieel in de problemen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De pachtprijzen stegen te snel"
+        },
+        {
+          "Id": 2,
+          "option": "De pachtprijzen daalden, waardoor hun inkomsten zakten"
+        },
+        {
+          "Id": 3,
+          "option": "Ze moesten plots veel belasting betalen"
+        },
+        {
+          "Id": 4,
+          "option": "Ze verloren al hun grond aan de kerk"
+        }
+      ],
+      "answer": 2,
+      "rule": "De pachtprijzen daalden, waardoor de inkomsten van de adel zakten terwijl hun dure levensstijl bleef."
+    },
+    {
+      "Id": 15,
+      "question": "⭐ Waarom is de Guldensporenslag eigenlijk niet zuiver 'Frankrijk tegen Vlaanderen'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Er vochten geen Fransen mee"
+        },
+        {
+          "Id": 2,
+          "option": "Ook aan Franse zijde stonden Vlamingen (rijke kooplieden), het was vooral een strijd tussen sociale klassen"
+        },
+        {
+          "Id": 3,
+          "option": "Het was een strijd tussen twee Franse koningen"
+        },
+        {
+          "Id": 4,
+          "option": "Vlaanderen bestond nog niet"
+        }
+      ],
+      "answer": 2,
+      "rule": "Aan beide kanten stonden Vlamingen: de rijke kooplieden kozen vaak de Franse kant. Het was vooral een conflict tussen sociale klassen."
+    },
+    {
+      "Id": 16,
+      "question": "⭐⭐ Hoe botsen de ideeën van denker John Locke met de standensamenleving?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Locke vindt dat de koning boven de wet staat"
+        },
+        {
+          "Id": 2,
+          "option": "Locke stelt dat alle mensen van nature vrij en gelijk zijn, terwijl de standen net op ongelijkheid berusten"
+        },
+        {
+          "Id": 3,
+          "option": "Locke wil de adel meer macht geven"
+        },
+        {
+          "Id": 4,
+          "option": "Locke verdedigt de tienden"
+        }
+      ],
+      "answer": 2,
+      "rule": "Locke stelt dat alle mensen van nature vrij en gelijk zijn; dat botst met de standensamenleving, die op aangeboren ongelijkheid is gebouwd."
+    },
+    {
+      "Id": 17,
+      "question": "⭐⭐ Waarom konden arme ambachtslieden in de praktijk niet meebesturen in de stad?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze mochten niet stemmen van de paus"
+        },
+        {
+          "Id": 2,
+          "option": "Ze moesten eerst een jaar en een dag stoppen met handwerk, wat ze zich niet konden veroorloven"
+        },
+        {
+          "Id": 3,
+          "option": "Ze woonden buiten de stadsmuren"
+        },
+        {
+          "Id": 4,
+          "option": "Ze waren geen lid van de derde stand"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een wet eiste dat men zich een jaar en een dag van handwerk onthield voor men schepen kon worden; arme ambachtslieden konden dat niet missen."
+    }
+  ]
+}

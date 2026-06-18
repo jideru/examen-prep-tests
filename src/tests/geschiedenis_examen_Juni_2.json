@@ -1,0 +1,416 @@
+{
+  "course": "Geschiedenis",
+  "title": "Oefening examen Juni 2",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Vanaf welke periode begint de wereldbevolking exponentieel (zeer snel) te groeien?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Vanaf de prehistorie"
+        },
+        {
+          "Id": 2,
+          "option": "Vanaf 1800, met de industriële revolutie"
+        },
+        {
+          "Id": 3,
+          "option": "Vanaf de val van Rome"
+        },
+        {
+          "Id": 4,
+          "option": "Vanaf het jaar 0"
+        }
+      ],
+      "answer": 2,
+      "rule": "Vanaf ongeveer 1800, met de industriële revolutie, groeit de bevolking exponentieel."
+    },
+    {
+      "Id": 2,
+      "question": "Wat is het 'vervangingscijfer' dat nodig is om een bevolking stabiel te houden?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "1,0 kinderen per vrouw"
+        },
+        {
+          "Id": 2,
+          "option": "2,1 kinderen per vrouw"
+        },
+        {
+          "Id": 3,
+          "option": "4,5 kinderen per vrouw"
+        },
+        {
+          "Id": 4,
+          "option": "8,0 kinderen per vrouw"
+        }
+      ],
+      "answer": 2,
+      "rule": "Het vervangingscijfer is 2,1: het gemiddeld aantal kinderen per vrouw dat nodig is om de bevolking op peil te houden."
+    },
+    {
+      "Id": 3,
+      "question": "Wat betekent vergrijzing?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De bevolking wordt gemiddeld jonger"
+        },
+        {
+          "Id": 2,
+          "option": "Het aandeel ouderen in de bevolking stijgt"
+        },
+        {
+          "Id": 3,
+          "option": "Er worden meer kinderen geboren"
+        },
+        {
+          "Id": 4,
+          "option": "De bevolking neemt snel toe"
+        }
+      ],
+      "answer": 2,
+      "rule": "Vergrijzing betekent dat het aantal ouderen stijgt ten opzichte van de rest van de bevolking."
+    },
+    {
+      "Id": 4,
+      "question": "Wat is braakland in het drieslagstelsel?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Land waarop wintergraan groeit"
+        },
+        {
+          "Id": 2,
+          "option": "Land dat een jaar niet bezaaid wordt om te herstellen"
+        },
+        {
+          "Id": 3,
+          "option": "Land dat verkocht wordt"
+        },
+        {
+          "Id": 4,
+          "option": "Land van de adel"
+        }
+      ],
+      "answer": 2,
+      "rule": "Braakland is grond die men een jaar niet bezaait, zodat de bodem kan herstellen."
+    },
+    {
+      "Id": 5,
+      "question": "Uit welke drie delen bestaat het drieslagstelsel?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Wintergraan, zomergraan en braak"
+        },
+        {
+          "Id": 2,
+          "option": "Tarwe, gerst en haver"
+        },
+        {
+          "Id": 3,
+          "option": "Akker, weide en bos"
+        },
+        {
+          "Id": 4,
+          "option": "Zaaien, oogsten en ploegen"
+        }
+      ],
+      "answer": 1,
+      "rule": "In het drieslagstelsel verdeelt men de velden in wintergraan, zomergraan en braakland."
+    },
+    {
+      "Id": 6,
+      "question": "Waar komt de pest oorspronkelijk vandaan?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Uit West-Europa"
+        },
+        {
+          "Id": 2,
+          "option": "Uit Centraal-Azië"
+        },
+        {
+          "Id": 3,
+          "option": "Uit Noord-Amerika"
+        },
+        {
+          "Id": 4,
+          "option": "Uit Afrika"
+        }
+      ],
+      "answer": 2,
+      "rule": "De pest kwam oorspronkelijk uit Centraal-Azië en bereikte via handelsroutes Europa."
+    },
+    {
+      "Id": 7,
+      "question": "Hoeveel procent van de Europese bevolking stierf aan de grote pestepidemie van de 14e eeuw?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ongeveer 5%"
+        },
+        {
+          "Id": 2,
+          "option": "Ongeveer 20%"
+        },
+        {
+          "Id": 3,
+          "option": "Ongeveer 40 à 50%"
+        },
+        {
+          "Id": 4,
+          "option": "Ongeveer 90%"
+        }
+      ],
+      "answer": 3,
+      "rule": "In ongeveer 5 jaar tijd stierf zo'n 40 à 50% van de Europese bevolking aan de pest."
+    },
+    {
+      "Id": 8,
+      "question": "Hoe wordt de pest overgedragen op de mens?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Door besmet drinkwater"
+        },
+        {
+          "Id": 2,
+          "option": "Door ratten en vlooien"
+        },
+        {
+          "Id": 3,
+          "option": "Door de wind"
+        },
+        {
+          "Id": 4,
+          "option": "Door insectenbeten van muggen"
+        }
+      ],
+      "answer": 2,
+      "rule": "De pest wordt overgedragen via ratten en vlooien; de rattenvlo brengt de infectie over op de mens."
+    },
+    {
+      "Id": 9,
+      "question": "Welke drie soorten pest bestaan er?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Builenpest, longpest en bloedpest"
+        },
+        {
+          "Id": 2,
+          "option": "Koortspest, huidpest en oogpest"
+        },
+        {
+          "Id": 3,
+          "option": "Rattenpest, vlooienpest en mensenpest"
+        },
+        {
+          "Id": 4,
+          "option": "Builenpest, koortspest en zwartpest"
+        }
+      ],
+      "answer": 1,
+      "rule": "De drie soorten zijn builenpest, longpest en bloedpest."
+    },
+    {
+      "Id": 10,
+      "question": "Waar komt de naam 'zwarte dood' vandaan?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Van de zwarte kleren van de pestdokters"
+        },
+        {
+          "Id": 2,
+          "option": "Van de zwarte vlekken die slachtoffers op hun huid krijgen"
+        },
+        {
+          "Id": 3,
+          "option": "Van de zwarte ratten"
+        },
+        {
+          "Id": 4,
+          "option": "Van de duisternis in de steden"
+        }
+      ],
+      "answer": 2,
+      "rule": "De naam verwijst naar de donkere, bijna zwarte vlekken die pestslachtoffers op hun lichaam krijgen."
+    },
+    {
+      "Id": 11,
+      "question": "Van welk Italiaans woord is ons woord 'quarantaine' afgeleid?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "'Quaranta giorni' (veertig dagen)"
+        },
+        {
+          "Id": 2,
+          "option": "'Quattro' (vier)"
+        },
+        {
+          "Id": 3,
+          "option": "'Cordone' (afzetting)"
+        },
+        {
+          "Id": 4,
+          "option": "'Peste' (pest)"
+        }
+      ],
+      "answer": 1,
+      "rule": "'Quarantaine' komt van het Italiaanse 'quaranta giorni', wat veertig dagen betekent."
+    },
+    {
+      "Id": 12,
+      "question": "Welke bevolkingsgroep kreeg ten onrechte de schuld van de pest?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De adel"
+        },
+        {
+          "Id": 2,
+          "option": "De clerus"
+        },
+        {
+          "Id": 3,
+          "option": "De joden"
+        },
+        {
+          "Id": 4,
+          "option": "De handelaars"
+        }
+      ],
+      "answer": 3,
+      "rule": "De joodse gemeenschap kreeg ten onrechte de schuld van de pest."
+    },
+    {
+      "Id": 13,
+      "question": "⭐ Waarom kan je niet elk jaar hetzelfde gewas op hetzelfde stuk grond telen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De boeren worden lui"
+        },
+        {
+          "Id": 2,
+          "option": "De plant put de grond uit met zijn eigen afvalstoffen (toxines)"
+        },
+        {
+          "Id": 3,
+          "option": "Het is verboden door de adel"
+        },
+        {
+          "Id": 4,
+          "option": "De grond wordt te nat"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een plant scheidt toxines af; teel je jaren hetzelfde gewas, dan raakt de grond uitgeput en daalt de opbrengst."
+    },
+    {
+      "Id": 14,
+      "question": "⭐ Waarom trof de pest de joodse gemeenschap minder hard, volgens de bronnen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze woonden buiten de steden"
+        },
+        {
+          "Id": 2,
+          "option": "Ze namen een betere hygiëne in acht"
+        },
+        {
+          "Id": 3,
+          "option": "Ze hadden al antibiotica"
+        },
+        {
+          "Id": 4,
+          "option": "Ze waren immuun"
+        }
+      ],
+      "answer": 2,
+      "rule": "Doordat de joden een betere hygiëne in acht namen, werden ze minder ziek; daardoor verdacht men hen onterecht."
+    },
+    {
+      "Id": 15,
+      "question": "⭐ Welke twee maatregelen hielpen wél tegen de verspreiding van de pest?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Bidden en aderlaten"
+        },
+        {
+          "Id": 2,
+          "option": "Quarantaine (isolatie) en vuur/verbranden"
+        },
+        {
+          "Id": 3,
+          "option": "Olijfolie en baden"
+        },
+        {
+          "Id": 4,
+          "option": "Toverdrankjes en amuletten"
+        }
+      ],
+      "answer": 2,
+      "rule": "Quarantaine (mensen afzonderen) en vuur (verbranden van besmette spullen) hielpen echt, doordat ze de verspreiding van vlooien stopten."
+    },
+    {
+      "Id": 16,
+      "question": "⭐⭐ Hoe komt het dat de wereldbevolking de komende jaren toch nog stijgt, ook al daalt het geboortecijfer?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Er worden steeds meer kinderen geboren"
+        },
+        {
+          "Id": 2,
+          "option": "Mensen leven langer en de huidige grote generaties krijgen nog kinderen"
+        },
+        {
+          "Id": 3,
+          "option": "Er is geen sterfte meer"
+        },
+        {
+          "Id": 4,
+          "option": "Het vervangingscijfer is gestegen"
+        }
+      ],
+      "answer": 2,
+      "rule": "Door betere gezondheidszorg leven mensen langer en planten grote bestaande generaties zich nog voort, waardoor de bevolking nog even doorgroeit."
+    },
+    {
+      "Id": 17,
+      "question": "⭐⭐ Wat leert het rapport van de medische faculteit van Parijs (1348) ons over de medische kennis in de middeleeuwen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De artsen kenden de echte oorzaak van de pest"
+        },
+        {
+          "Id": 2,
+          "option": "Zelfs de beste artsen kenden de oorzaak niet en gaven nutteloos advies"
+        },
+        {
+          "Id": 3,
+          "option": "Men wist al van het bestaan van bacteriën"
+        },
+        {
+          "Id": 4,
+          "option": "Men genas de pest met antibiotica"
+        }
+      ],
+      "answer": 2,
+      "rule": "Het rapport kwam van de beste artsen van die tijd, maar zij kenden de oorzaak niet en gaven nutteloos advies: de medische kennis was zeer beperkt."
+    }
+  ]
+}

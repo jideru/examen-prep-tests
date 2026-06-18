@@ -1,0 +1,416 @@
+{
+  "course": "Geschiedenis",
+  "title": "Oefening examen Juni 5",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wie sticht in 910 de invloedrijke abdij van Cluny?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Benedictus van Nursia"
+        },
+        {
+          "Id": 2,
+          "option": "Willem van Aquitanië"
+        },
+        {
+          "Id": 3,
+          "option": "Franciscus van Assisi"
+        },
+        {
+          "Id": 4,
+          "option": "Keizer Otto III"
+        }
+      ],
+      "answer": 2,
+      "rule": "Willem van Aquitanië sticht in 910 de abdij van Cluny en plaatst die onder direct bestuur van de paus."
+    },
+    {
+      "Id": 2,
+      "question": "Hoeveel kruistochten werden er tussen 1095 en 1271 gehouden?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Drie"
+        },
+        {
+          "Id": 2,
+          "option": "Vijf"
+        },
+        {
+          "Id": 3,
+          "option": "Negen"
+        },
+        {
+          "Id": 4,
+          "option": "Twintig"
+        }
+      ],
+      "answer": 3,
+      "rule": "Er werden tussen 1095 en 1271 negen kruistochten gehouden."
+    },
+    {
+      "Id": 3,
+      "question": "Wat hield de Godsvredebeweging in?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Vrouwen, kinderen, boeren en pelgrims moesten met rust gelaten worden"
+        },
+        {
+          "Id": 2,
+          "option": "Alle oorlog werd verboden"
+        },
+        {
+          "Id": 3,
+          "option": "De paus mocht geen leger meer hebben"
+        },
+        {
+          "Id": 4,
+          "option": "De kruistochten werden afgeschaft"
+        }
+      ],
+      "answer": 1,
+      "rule": "De Godsvredebeweging eiste dat weerlozen zoals vrouwen, kinderen, boeren en pelgrims met rust werden gelaten."
+    },
+    {
+      "Id": 4,
+      "question": "Welke landbouwvernieuwingen deden de bevolking stijgen tussen 700 en 1300?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Drieslagstelsel, karploeg, gareel en hoefijzer"
+        },
+        {
+          "Id": 2,
+          "option": "Tractor en kunstmest"
+        },
+        {
+          "Id": 3,
+          "option": "Stoommachine en trein"
+        },
+        {
+          "Id": 4,
+          "option": "Aardappel en maïs"
+        }
+      ],
+      "answer": 1,
+      "rule": "Vernieuwingen zoals het drieslagstelsel, de karploeg, het gareel en het hoefijzer zorgden voor betere oogsten en bevolkingsgroei."
+    },
+    {
+      "Id": 5,
+      "question": "Waarom schaft China in 2015 de eenkindpolitiek weer af?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Er waren te veel kinderen"
+        },
+        {
+          "Id": 2,
+          "option": "Door vergrijzing dreigden er te weinig jonge, werkende mensen te zijn"
+        },
+        {
+          "Id": 3,
+          "option": "De wet was te duur"
+        },
+        {
+          "Id": 4,
+          "option": "Iedereen wilde meer kinderen"
+        }
+      ],
+      "answer": 2,
+      "rule": "Door de eenkindpolitiek dreigde sterke vergrijzing: te weinig jongeren tegenover veel ouderen, daarom werd ze afgeschaft."
+    },
+    {
+      "Id": 6,
+      "question": "In welke eeuw ontdekt men eindelijk de pestbacil?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De 14e eeuw"
+        },
+        {
+          "Id": 2,
+          "option": "De 16e eeuw"
+        },
+        {
+          "Id": 3,
+          "option": "De 19e eeuw"
+        },
+        {
+          "Id": 4,
+          "option": "De 21e eeuw"
+        }
+      ],
+      "answer": 3,
+      "rule": "Pas in de 19e eeuw (1894, door Yersin) wordt de pestbacil ontdekt."
+    },
+    {
+      "Id": 7,
+      "question": "Wat deden pestdokters met de snavel van hun masker?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze ademden er zuurstof door"
+        },
+        {
+          "Id": 2,
+          "option": "Ze stopten er kruiden in om besmetting tegen te gaan"
+        },
+        {
+          "Id": 3,
+          "option": "Ze gebruikten hem als wapen"
+        },
+        {
+          "Id": 4,
+          "option": "Ze aten ermee"
+        }
+      ],
+      "answer": 2,
+      "rule": "In de snavel van het masker stopte men kruiden om besmetting tegen te gaan."
+    },
+    {
+      "Id": 8,
+      "question": "Welke godsdienst was de Romeinse godsdienst?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Monotheïstisch"
+        },
+        {
+          "Id": 2,
+          "option": "Polytheïstisch"
+        },
+        {
+          "Id": 3,
+          "option": "Atheïstisch"
+        },
+        {
+          "Id": 4,
+          "option": "Christelijk"
+        }
+      ],
+      "answer": 2,
+      "rule": "De Romeinse godsdienst was polytheïstisch: ze aanbaden meerdere goden."
+    },
+    {
+      "Id": 9,
+      "question": "De Byzantijnse keizer was, anders dan een West-Europese koning, ook...",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "een gewone burger"
+        },
+        {
+          "Id": 2,
+          "option": "de leider van de kerk"
+        },
+        {
+          "Id": 3,
+          "option": "een ambachtsman"
+        },
+        {
+          "Id": 4,
+          "option": "een pestdokter"
+        }
+      ],
+      "answer": 2,
+      "rule": "In het Byzantijnse Rijk was de keizer ook de leider van de kerk en liet hij zich vereren."
+    },
+    {
+      "Id": 10,
+      "question": "Welke stand verloor vanaf de 15e eeuw zijn positie in het leger aan beroepssoldaten en huurlingen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De clerus"
+        },
+        {
+          "Id": 2,
+          "option": "De adel"
+        },
+        {
+          "Id": 3,
+          "option": "De derde stand"
+        },
+        {
+          "Id": 4,
+          "option": "De gilden"
+        }
+      ],
+      "answer": 2,
+      "rule": "De adel verloor haar militaire rol: ze werd vervangen door beroepssoldaten en huurlingen."
+    },
+    {
+      "Id": 11,
+      "question": "Waarom wordt de slag van 1302 de 'Guldensporenslag' genoemd?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Omdat hij in de zomer plaatsvond"
+        },
+        {
+          "Id": 2,
+          "option": "Omdat de Vlamingen de gouden sporen van verslagen Franse ridders buitmaakten"
+        },
+        {
+          "Id": 3,
+          "option": "Omdat er met goud betaald werd"
+        },
+        {
+          "Id": 4,
+          "option": "Omdat de graaf gouden sporen droeg"
+        }
+      ],
+      "answer": 2,
+      "rule": "Na de overwinning verzamelden de Vlamingen de gulden (gouden) sporen van de verslagen Franse ridders."
+    },
+    {
+      "Id": 12,
+      "question": "Met welk wapen schakelden de Vlamingen de Franse ridders te paard uit?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het kanon"
+        },
+        {
+          "Id": 2,
+          "option": "De goedendag"
+        },
+        {
+          "Id": 3,
+          "option": "De katapult"
+        },
+        {
+          "Id": 4,
+          "option": "De kruisboog"
+        }
+      ],
+      "answer": 2,
+      "rule": "De Vlamingen gebruikten o.a. de goedendag, een zware strijdknots die ook als steekwapen diende."
+    },
+    {
+      "Id": 13,
+      "question": "⭐ Waarom kozen de rijke kooplieden (patriciërs) vaak de kant van de Franse koning?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze hielden van Frankrijk"
+        },
+        {
+          "Id": 2,
+          "option": "Hun handel en macht waren gebaat bij de koning; ze stonden tegenover de graaf en de ambachtslieden"
+        },
+        {
+          "Id": 3,
+          "option": "Ze waren Franstalig"
+        },
+        {
+          "Id": 4,
+          "option": "Ze werden gedwongen door de paus"
+        }
+      ],
+      "answer": 2,
+      "rule": "De patriciërs lagen in conflict met de graaf en de ambachtslieden; hun belangen sloten beter aan bij de Franse koning."
+    },
+    {
+      "Id": 14,
+      "question": "⭐ Wat is het belangrijkste gevolg van de overwinning in de Guldensporenslag voor de macht van de adel?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De adel werd machtiger dan ooit"
+        },
+        {
+          "Id": 2,
+          "option": "Het betekende het begin van het einde voor de adellijke ridderlegers"
+        },
+        {
+          "Id": 3,
+          "option": "De adel verdween onmiddellijk"
+        },
+        {
+          "Id": 4,
+          "option": "De adel ging de steden besturen"
+        }
+      ],
+      "answer": 2,
+      "rule": "De overwinning van het voetvolk op de ridders luidde het begin van het einde van de adellijke ridderlegers in."
+    },
+    {
+      "Id": 15,
+      "question": "⭐ Waarom levert een 'omgekeerde bevolkingspiramide' problemen op?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Er zijn te veel jonge kinderen"
+        },
+        {
+          "Id": 2,
+          "option": "Een kleine groep werkenden moet de pensioenen van veel ouderen betalen"
+        },
+        {
+          "Id": 3,
+          "option": "Er worden geen kinderen meer geboren"
+        },
+        {
+          "Id": 4,
+          "option": "Iedereen wordt even oud"
+        }
+      ],
+      "answer": 2,
+      "rule": "Bij een omgekeerde piramide moet een krimpende groep werkenden de pensioenen van een groeiende groep ouderen betalen: zwaar voor de economie."
+    },
+    {
+      "Id": 16,
+      "question": "⭐⭐ De abdijen waren eeuwenlang vrijwel de enige plaatsen waar kennis bewaard bleef. Wat is hiervan een gevolg?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het gewone volk was zeer geletterd"
+        },
+        {
+          "Id": 2,
+          "option": "Kennis en geletterdheid waren sterk in handen van de kerk, het volk bleef grotendeels ongeletterd"
+        },
+        {
+          "Id": 3,
+          "option": "Er waren geen kloosters nodig"
+        },
+        {
+          "Id": 4,
+          "option": "Iedereen kon Latijn lezen"
+        }
+      ],
+      "answer": 2,
+      "rule": "Doordat boeken en kennis vooral in de kloosters lagen, was het gewone volk grotendeels ongeletterd en lag de kennis bij de kerk."
+    },
+    {
+      "Id": 17,
+      "question": "⭐⭐ Waarom zorgt een hoge bevolkingsdruk en gebrek aan hygiëne in steden voor een snelle verspreiding van een ziekte als de pest?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Mensen wonen ver uit elkaar"
+        },
+        {
+          "Id": 2,
+          "option": "Veel mensen leven dicht op elkaar tussen vuilnis en ongedierte, waardoor besmetting snel gaat"
+        },
+        {
+          "Id": 3,
+          "option": "Er zijn te weinig ratten"
+        },
+        {
+          "Id": 4,
+          "option": "De lucht is er zuiverder"
+        }
+      ],
+      "answer": 2,
+      "rule": "Overbevolkte, vuile steden trekken ongedierte aan en mensen leven er dicht op elkaar: de ideale kweekbodem voor een snelle verspreiding."
+    }
+  ]
+}

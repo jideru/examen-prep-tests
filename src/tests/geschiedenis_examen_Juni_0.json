@@ -1,0 +1,488 @@
+{
+  "course": "Geschiedenis",
+  "title": "Opwarmer Examen Juni",
+  "emailTutor": "jderuysscher@gmail.com",
+  "gradeAtEnd": false,
+  "questions": [
+    {
+      "Id": 1,
+      "question": "Wat betekent het dat een godsdienst monotheïstisch is?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Ze aanbidt meerdere goden"
+        },
+        {
+          "Id": 2,
+          "option": "Ze aanbidt slechts één god"
+        },
+        {
+          "Id": 3,
+          "option": "Ze aanbidt geen god"
+        },
+        {
+          "Id": 4,
+          "option": "Ze aanbidt de keizer"
+        }
+      ],
+      "answer": 2,
+      "rule": "Monotheïsme betekent dat men slechts één god aanbidt. Het christendom is monotheïstisch."
+    },
+    {
+      "Id": 2,
+      "question": "Hoe noemen we een godsdienst die meerdere goden aanbidt, zoals de Romeinse?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Monotheïstisch"
+        },
+        {
+          "Id": 2,
+          "option": "Polytheïstisch"
+        },
+        {
+          "Id": 3,
+          "option": "Atheïstisch"
+        },
+        {
+          "Id": 4,
+          "option": "Orthodox"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een godsdienst met meerdere goden is polytheïstisch."
+    },
+    {
+      "Id": 3,
+      "question": "Wat gebeurde er met het christendom in 380?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Het werd verboden"
+        },
+        {
+          "Id": 2,
+          "option": "Het werd de Romeinse staatsgodsdienst"
+        },
+        {
+          "Id": 3,
+          "option": "Het verdween"
+        },
+        {
+          "Id": 4,
+          "option": "Het splitste in twee"
+        }
+      ],
+      "answer": 2,
+      "rule": "In 380 werd het christendom de staatsgodsdienst van het Romeinse Rijk."
+    },
+    {
+      "Id": 4,
+      "question": "Wat betekent de benedictijnse regel 'ora et labora'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Bid en vecht"
+        },
+        {
+          "Id": 2,
+          "option": "Bid en werk"
+        },
+        {
+          "Id": 3,
+          "option": "Lees en schrijf"
+        },
+        {
+          "Id": 4,
+          "option": "Eet en slaap"
+        }
+      ],
+      "answer": 2,
+      "rule": "'Ora et labora' is Latijn voor 'bid en werk'."
+    },
+    {
+      "Id": 5,
+      "question": "Wie roept in 1095 op tot de eerste kruistocht?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Gregorius VII"
+        },
+        {
+          "Id": 2,
+          "option": "Paus Urbanus II"
+        },
+        {
+          "Id": 3,
+          "option": "Keizer Otto III"
+        },
+        {
+          "Id": 4,
+          "option": "Clovis"
+        }
+      ],
+      "answer": 2,
+      "rule": "Paus Urbanus II roept in 1095 op tot een kruistocht naar het Heilige Land."
+    },
+    {
+      "Id": 6,
+      "question": "Wat gebeurde er tijdens het Oosters Schisma van 1054?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De paus werd afgezet"
+        },
+        {
+          "Id": 2,
+          "option": "De Oosterse en Westerse kerk splitsten zich"
+        },
+        {
+          "Id": 3,
+          "option": "De kruistochten begonnen"
+        },
+        {
+          "Id": 4,
+          "option": "Rome viel"
+        }
+      ],
+      "answer": 2,
+      "rule": "In 1054 splitsten de Oosterse (orthodoxe) en de Westerse (rooms-katholieke) kerk zich."
+    },
+    {
+      "Id": 7,
+      "question": "Vanaf welke periode groeit de wereldbevolking exponentieel (heel snel)?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Vanaf de prehistorie"
+        },
+        {
+          "Id": 2,
+          "option": "Vanaf 1800, met de industriële revolutie"
+        },
+        {
+          "Id": 3,
+          "option": "Vanaf het jaar 0"
+        },
+        {
+          "Id": 4,
+          "option": "Vanaf de val van Rome"
+        }
+      ],
+      "answer": 2,
+      "rule": "Vanaf ongeveer 1800, met de industriële revolutie, groeit de bevolking exponentieel."
+    },
+    {
+      "Id": 8,
+      "question": "Wat betekent vergrijzing?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De bevolking wordt jonger"
+        },
+        {
+          "Id": 2,
+          "option": "Het aandeel ouderen stijgt"
+        },
+        {
+          "Id": 3,
+          "option": "Er worden meer kinderen geboren"
+        },
+        {
+          "Id": 4,
+          "option": "De bevolking verdwijnt"
+        }
+      ],
+      "answer": 2,
+      "rule": "Vergrijzing betekent dat het aantal ouderen stijgt ten opzichte van de rest van de bevolking."
+    },
+    {
+      "Id": 9,
+      "question": "Uit welke drie delen bestaat het drieslagstelsel?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Wintergraan, zomergraan en braak"
+        },
+        {
+          "Id": 2,
+          "option": "Tarwe, gerst en haver"
+        },
+        {
+          "Id": 3,
+          "option": "Akker, weide en bos"
+        },
+        {
+          "Id": 4,
+          "option": "Zaaien, ploegen en oogsten"
+        }
+      ],
+      "answer": 1,
+      "rule": "In het drieslagstelsel verdeelt men de velden in wintergraan, zomergraan en braakland."
+    },
+    {
+      "Id": 10,
+      "question": "Waar komt de pest oorspronkelijk vandaan?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Uit West-Europa"
+        },
+        {
+          "Id": 2,
+          "option": "Uit Centraal-Azië"
+        },
+        {
+          "Id": 3,
+          "option": "Uit Amerika"
+        },
+        {
+          "Id": 4,
+          "option": "Uit Afrika"
+        }
+      ],
+      "answer": 2,
+      "rule": "De pest kwam oorspronkelijk uit Centraal-Azië en bereikte via de handelsroutes Europa."
+    },
+    {
+      "Id": 11,
+      "question": "Hoe wordt de pest overgedragen op de mens?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Door drinkwater"
+        },
+        {
+          "Id": 2,
+          "option": "Door ratten en vlooien"
+        },
+        {
+          "Id": 3,
+          "option": "Door de wind"
+        },
+        {
+          "Id": 4,
+          "option": "Door muggen"
+        }
+      ],
+      "answer": 2,
+      "rule": "De pest wordt overgedragen via ratten en vlooien."
+    },
+    {
+      "Id": 12,
+      "question": "Waar komt de naam 'zwarte dood' vandaan?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Van de zwarte kleren van dokters"
+        },
+        {
+          "Id": 2,
+          "option": "Van de zwarte vlekken op de huid van slachtoffers"
+        },
+        {
+          "Id": 3,
+          "option": "Van de zwarte ratten"
+        },
+        {
+          "Id": 4,
+          "option": "Van de nacht"
+        }
+      ],
+      "answer": 2,
+      "rule": "De naam verwijst naar de donkere, bijna zwarte vlekken die slachtoffers op hun huid krijgen."
+    },
+    {
+      "Id": 13,
+      "question": "Welke bevolkingsgroep kreeg ten onrechte de schuld van de pest?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De adel"
+        },
+        {
+          "Id": 2,
+          "option": "De clerus"
+        },
+        {
+          "Id": 3,
+          "option": "De joden"
+        },
+        {
+          "Id": 4,
+          "option": "De koningen"
+        }
+      ],
+      "answer": 3,
+      "rule": "De joodse gemeenschap kreeg ten onrechte de schuld van de pest."
+    },
+    {
+      "Id": 14,
+      "question": "Uit welke drie standen bestaat de standensamenleving?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Koningen, ridders en boeren"
+        },
+        {
+          "Id": 2,
+          "option": "Clerus, adel en derde stand"
+        },
+        {
+          "Id": 3,
+          "option": "Rijken, armen en slaven"
+        },
+        {
+          "Id": 4,
+          "option": "Paus, keizer en volk"
+        }
+      ],
+      "answer": 2,
+      "rule": "De drie standen zijn de clerus (bidden), de adel (vechten/besturen) en de derde stand (werken)."
+    },
+    {
+      "Id": 15,
+      "question": "Welke stand betaalde (bijna) alle belastingen?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "De clerus"
+        },
+        {
+          "Id": 2,
+          "option": "De adel"
+        },
+        {
+          "Id": 3,
+          "option": "De derde stand"
+        },
+        {
+          "Id": 4,
+          "option": "De koning"
+        }
+      ],
+      "answer": 3,
+      "rule": "De derde stand draaide op voor het werk en betaalde de belastingen."
+    },
+    {
+      "Id": 16,
+      "question": "Wat is een gilde?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Een groep edellieden"
+        },
+        {
+          "Id": 2,
+          "option": "Een vereniging van ambachtslieden van eenzelfde beroep"
+        },
+        {
+          "Id": 3,
+          "option": "Een leger"
+        },
+        {
+          "Id": 4,
+          "option": "Een klooster"
+        }
+      ],
+      "answer": 2,
+      "rule": "Een gilde is een vereniging van ambachtslieden die hetzelfde beroep uitoefenen."
+    },
+    {
+      "Id": 17,
+      "question": "Wanneer vond de Guldensporenslag plaats?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "11 juli 1302"
+        },
+        {
+          "Id": 2,
+          "option": "1 januari 1300"
+        },
+        {
+          "Id": 3,
+          "option": "17 mei 1302"
+        },
+        {
+          "Id": 4,
+          "option": "11 juli 1402"
+        }
+      ],
+      "answer": 1,
+      "rule": "De Guldensporenslag vond plaats op 11 juli 1302."
+    },
+    {
+      "Id": 18,
+      "question": "Bij welke stad vond de Guldensporenslag plaats?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Brugge"
+        },
+        {
+          "Id": 2,
+          "option": "Gent"
+        },
+        {
+          "Id": 3,
+          "option": "Kortrijk"
+        },
+        {
+          "Id": 4,
+          "option": "Antwerpen"
+        }
+      ],
+      "answer": 3,
+      "rule": "De Guldensporenslag werd uitgevochten bij Kortrijk."
+    },
+    {
+      "Id": 19,
+      "question": "Wie schreef de roman 'De Leeuw van Vlaanderen'?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Adalbero van Laon"
+        },
+        {
+          "Id": 2,
+          "option": "Hendrik Conscience"
+        },
+        {
+          "Id": 3,
+          "option": "Lodewijk van Velthem"
+        },
+        {
+          "Id": 4,
+          "option": "Gwijde van Dampierre"
+        }
+      ],
+      "answer": 2,
+      "rule": "Hendrik Conscience schreef 'De Leeuw van Vlaanderen' (1838)."
+    },
+    {
+      "Id": 20,
+      "question": "Welke drie tijdvakken komen in deze leerstof voor, in de juiste volgorde?",
+      "multiple": [
+        {
+          "Id": 1,
+          "option": "Middeleeuwen – oudheid – vroegmoderne tijd"
+        },
+        {
+          "Id": 2,
+          "option": "Klassieke oudheid – middeleeuwen – vroegmoderne tijd"
+        },
+        {
+          "Id": 3,
+          "option": "Prehistorie – oudheid – middeleeuwen"
+        },
+        {
+          "Id": 4,
+          "option": "Vroegmoderne tijd – middeleeuwen – oudheid"
+        }
+      ],
+      "answer": 2,
+      "rule": "De volgorde is klassieke oudheid, middeleeuwen (vanaf 476) en vroegmoderne tijd (vanaf ca. 1450/1500)."
+    }
+  ]
+}
